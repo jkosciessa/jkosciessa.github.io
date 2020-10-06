@@ -1,0 +1,29 @@
+- title: "Thalamocortical excitability adjustments guide human perception under uncertainty"
+  image: StateSwitch.png
+  description: Rhythms, entropy, uncertainty
+  authors: Kosciessa, J. Q., Lindenberger, U. & Garrett, D. D.
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2020.06.22.165118v1
+    display:  
+  highlight: 1
+  news2:
+
+- title: "Standard multiscale entropy reflects spectral power at mismatched temporal scales: What's signal irregularity got to do with it?"
+  image: RhythmsEntropy.png
+  description: Entropy
+  authors: Kosciessa, J. Q., Kloosterman, N. A., & Garrett, D. D.
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2020.06.22.165118v1
+    display:  
+  highlight: 1
+  news2:
+
+- title: "Single-trial characterization of neural rhythms: Potential and challenges"
+  image: RhythmsEntropy.png
+  description: Rhythms
+  authors: Kosciessa, J. Q., Grandy, T. H., Garrett, D. D., & Werkle-Bergner, M.
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2019.116331
+    display:  
+  highlight: 1
+  news2:
