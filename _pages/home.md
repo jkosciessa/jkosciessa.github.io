@@ -12,19 +12,19 @@ I have a broad interest in Cognitive Psychology, Computational Neuroscience, Mac
 
  **You can find a recent CV** [(here)]({{ site.url }}{{ site.baseurl }}/downloads/CV.pdf) **!**
 
-[ORCID](https://orcid.org/0000-0002-4553-2794)
-
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/rhythm.jpeg" style="width: 600px">
 </figure>
 
 <h2>Research Interests</h2>
 
-**General.** My work captures the intersection of psychology and systems neuroscience. I am particularly interested how neural dynamics can practically constrain implementations of cognition. Specifically, I am interested in different dynamic regimes in the brain, and their non-invasive assessment. Specifically, I have worked on the detection and characterization of neural rhythms in time. At the psychological level, I am interested in how the brain represents, and adapts, to environmental uncertainty around it. Linking these interests, I suggest that different cortical regimes may be dynamically engaged via subcortical structures and neuromodulation to manage perception and cognition.
+**General.** I am particularly interested how neural dynamics practically constrain implementations of cognition. Specifically, I am interested in different dynamic regimes in the brain, and their non-invasive assessment. At the psychological level, I am interested in how the brain represents, and adapts, to environmental uncertainty around it. Linking these interests, I consider the role of subcortical structures and neuromodulation in the dynamic engagement of cortical regimes in service of perception, cognition and action.
 
-**Dynamic characterization of neural rhythms.** Neural rhythms are considered to provide insights into how the human brain coordinates information processing in time and space. However, rhythms may not be constantly present in neural recordings and a major goal is to identify rhythmic periods in time to better characterize these rhythmic signals and unlock insights into their generation and function.
+**Dynamic characterization of neural rhythms.** Neural rhythms provide insights into how the human brain coordinates information processing in time and space. However, rhythms are not constantly present in neural recordings and a major goal is to identify rhythmic periods in time to better characterize these rhythmic signals and unlock insights into their generation and function.
 
-**Characterization of ‘neural complexity’.** Aside from neural rhythms, the brain can dynamically interact across multiple temporal and spatial scales (think 'communication' within and across brain regions). This gives rise to a plethora of signatures observed at the scalp. A major goal is to better characterize these fluctuations to infer the presence of different cortical activity regimes.
+**Characterization of ‘neural complexity’.** Aside from neural rhythms, the brain can dynamically interact across multiple temporal and spatial scales (e.g., within and across brain regions). This gives rise to a plethora of signatures observed at the scalp. A major goal is to better characterize these fluctuations to infer the presence of different cortical activity regimes.
 
-**Facing environmental uncertainty.** Humans frequently face complex environments with an abundance of uncertainty of exactly what should receive priority in processing. A major question is how the brain identifies this uncertainty, and how it changes its dynamics to account for elevated uncertainty, to create an adaptive course of action for the individual.
+**Facing environmental uncertainty.** Humans frequently face complex environments with varying degrees of uncertainty about what should receive priority in processing. A major interest of mine concerns how the brain identifies this uncertainty, and how it changes its dynamics to create an adaptive course of action.
+
+**Thalamic influences on cortical dynamics and cognition.** While traditionally considered an early relay for sensory information, the centrally-located thalamus is ideally suited to exert a large influence on the fine computations in cortex. However, its multifaceted influence on the dynamics of cortical networks and higher-order cognition is only starting to be uncovered. I use a multi-modal approach combining high temporal resolution in the cortical EEG with high spatial resolution with fMRI to probe these conceptual relations.
 

@@ -9,7 +9,6 @@ img { margin-bottom: 24px;
     border-radius:2%;
 }
 
-
 body {
 	padding-top: 70px;
 }
@@ -92,3 +91,18 @@ firstp {
     margin-right: 30px;
 }
 
+.navbar-brand-name > {
+
+	display: inline-block;
+	float: none;
+  
+}
+  
+.navbar-brand-name > img {
+	display: inline-block;
+	float: none;
+	padding: 0 10px 0 0;
+	margin-bottom: 0px; 
+    margin-top: -5px; 
+    border-radius:0%;
+}
