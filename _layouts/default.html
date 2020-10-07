@@ -10,6 +10,9 @@
     <div class="container-fluid">
       <div class="row">
         {{ content }}
+        {% if page.twitter-timeline %}
+          {% include modules/twitter-timeline/twitter-timeline.html %}
+        {% endif %}
       </div>
     </div>
 
