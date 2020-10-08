@@ -12,7 +12,7 @@ I have a broad interest in Cognitive Psychology, Computational Neuroscience, Mac
 
  **You can find a recent CV** [(here)]({{ site.url }}{{ site.baseurl }}/downloads/CV.pdf) **!**
 
-<figure class="fourth">
+<figure class="img-responsive">
   <img src="{{ site.url }}{{ site.baseurl }}/images/rhythm.jpeg">
 </figure>
 
