@@ -8,6 +8,11 @@ permalink: /publications/
 
 # Publications
 
+**Kosciessa, J. Q.** (2020, Dr. rer. nat.). Measurement and relevance of rhythmic and aperiodic human brain dynamics. Humboldt-Universität zu Berlin. doi:10.18452/22040
+
+[library](https://doi.org/10.18452/22040)
+[PDF]({{ site.url }}{{ site.baseurl }}/downloads/dissertation_kosciessa_julian.pdf)
+
 **Kosciessa, J. Q.**, Lindenberger, U. & Garrett, D. D. (2020). Thalamocortical excitability adjustments guide human perception under uncertainty. Manuscript submitted for publication.
 
 [bioRxiv-v1](https://www.biorxiv.org/content/10.1101/2020.06.22.165118v1)
@@ -15,11 +20,11 @@ permalink: /publications/
 [Task](https://git.mpib-berlin.mpg.de/LNDG/multi-attribute-task)
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2020_StateSwitch.pdf)
 
-Kloosterman, N. A., **Kosciessa, J. Q.**, Lindenberger, U., Fahrenfort, J. J., & Garrett, D. D. (2020). Boosts in brain signal variability track liberal shifts in decision bias. eLife.
+Kloosterman, N. A., **Kosciessa, J. Q.**, Lindenberger, U., Fahrenfort, J. J., & Garrett, D. D. (2020). Boosts in brain signal variability track liberal shifts in decision bias. Elife, 9. doi:10.7554/eLife.54201
 
 [Article](https://elifesciences.org/articles/54201)
 
-**Kosciessa, J. Q.**, Kloosterman, N. A., & Garrett, D. D. (2019). Standard multiscale entropy reflects spectral power at mismatched temporal scales: What's signal irregularity got to do with it? PLOS Computational Biology.
+**Kosciessa, J. Q.**, Kloosterman, N. A., & Garrett, D. D. (2020). Standard multiscale entropy reflects neural dynamics at mismatched temporal scales: What's signal irregularity got to do with it? PLoS Computational Biology, 16(5), e1007885. doi:10.1371/journal.pcbi.1007885
 
 [Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007885)
 [bioRxiv-v1](https://www.biorxiv.org/content/10.1101/752808v1?versioned=true)
@@ -29,7 +34,7 @@ Kloosterman, N. A., **Kosciessa, J. Q.**, Lindenberger, U., Fahrenfort, J. J., &
 [Data](https://osf.io/q3vxm/)
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2020_PlosCB_RhythmsEntropy.pdf)
 
-**Kosciessa, J. Q.**, Grandy, T. H., Garrett, D. D., & Werkle-Bergner, M. (2019). Single-trial characterization of neural rhythms: Potential and challenges. Neuroimage, 116331. doi:https://doi.org/10.1016/j.neuroimage.2019.116331
+**Kosciessa, J. Q.**, Grandy, T. H., Garrett, D. D., & Werkle-Bergner, M. (2020). Single-trial characterization of neural rhythms: Potential and challenges. NeuroImage, 206, 116331. doi:10.1016/j.neuroimage.2019.116331
 
 [Article](https://www.sciencedirect.com/science/article/pii/S105381191930922X?via%3Dihub)
 [bioRxiv-v1](https://www.biorxiv.org/content/10.1101/356089v1?versioned=true)
