@@ -10,6 +10,8 @@ permalink: /tools
 
 Projects I have worked on produced multiple tools that I hope are useful for scientific purposes with no guarantees that tools are or will remain working as intended.
 
+<br />
+
 ### extended Better OSCillation Detection (eBOSC)
 
 **Kosciessa, J. Q.**, Grandy, T. H., Garrett, D. D., & Werkle-Bergner, M. (2019). Single-trial characterization of neural rhythms: Potential and challenges. Neuroimage, 116331. doi:https://doi.org/10.1016/j.neuroimage.2019.116331
@@ -23,6 +25,8 @@ eBOSC (extended Better OSCillation detection) is a toolbox (or a set of scripts)
 The code is provided [here](https://github.com/jkosciessa/eBOSC).
 A wiki is provided [here](https://github.com/jkosciessa/eBOSC/wiki).
 
+<br />
+
 ### modified MultiScale Entropy (mMSE)
 
 **Kosciessa, J. Q.**, Kloosterman, N. A., & Garrett, D. D. (2019). Standard multiscale entropy reflects spectral power at mismatched temporal scales: What's signal irregularity got to do with it? PLOS Computational Biology.
@@ -31,6 +35,8 @@ A wiki is provided [here](https://github.com/jkosciessa/eBOSC/wiki).
 
 The code is provided [here](https://github.com/LNDG/mMSE).
 A short tutorial is provided [here](https://www.fieldtriptoolbox.org/example/entropy_analysis).
+
+<br />
 
 ### Multi-attribute attention task (MAAT)
 
