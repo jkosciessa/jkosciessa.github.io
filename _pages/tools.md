@@ -14,9 +14,9 @@ Projects I have worked on produced multiple tools that I hope are useful for sci
 
 ### extended Better OSCillation Detection (eBOSC)
 
-**Kosciessa, J. Q.**, Grandy, T. H., Garrett, D. D., & Werkle-Bergner, M. (2019). Single-trial characterization of neural rhythms: Potential and challenges. Neuroimage, 116331. doi:https://doi.org/10.1016/j.neuroimage.2019.116331
+**Kosciessa, J. Q.**, Grandy, T. H., Garrett, D. D., & Werkle-Bergner, M. (2020). Single-trial characterization of neural rhythms: Potential and challenges. NeuroImage, 206, 116331. doi:10.1016/j.neuroimage.2019.116331
 
-<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/rhythm.jpeg" style="width: 600px">
+<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/rhythm.jpeg" style="width: 100%">
 
 Rhythmic patterns in neural time series provide a window on the neural dynamics that shape perception, cognition and action, and therefore are a major signal of interest in the cognitive, computational and systems neurosciences. However, typical descriptions of rhythmicity lack detail, e.g., failing to indicate when and for how long rhythms occur. Such lack of detail becomes problematic in the face of non-stationarities in rhythmic engagement, i.e., when the presence of rhythms varies over time. To overcome resulting pitfalls, there is a need for methods that identify the occurence of non-stationary rhythmic periods in a systematic manner.
 
@@ -29,9 +29,9 @@ A wiki is provided [here](https://github.com/jkosciessa/eBOSC/wiki).
 
 ### modified MultiScale Entropy (mMSE)
 
-**Kosciessa, J. Q.**, Kloosterman, N. A., & Garrett, D. D. (2019). Standard multiscale entropy reflects spectral power at mismatched temporal scales: What's signal irregularity got to do with it? PLOS Computational Biology.
+**Kosciessa, J. Q.**, Kloosterman, N. A., & Garrett, D. D. (2020). Standard multiscale entropy reflects neural dynamics at mismatched temporal scales: What's signal irregularity got to do with it? PLoS Computational Biology, 16(5), e1007885. doi:10.1371/journal.pcbi.1007885
 
-<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/mse.png" style="width: 600px">
+<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/mse.png" style="width: 100%">
 
 The code is provided [here](https://github.com/LNDG/mMSE).
 A short tutorial is provided [here](https://www.fieldtriptoolbox.org/example/entropy_analysis).
@@ -42,7 +42,7 @@ A short tutorial is provided [here](https://www.fieldtriptoolbox.org/example/ent
 
 **Kosciessa, J. Q.**, Lindenberger, U. & Garrett, D. D. (2020). Thalamocortical excitability adjustments guide human perception under uncertainty. Manuscript submitted for publication.
 
-<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/MAAT.gif" style="width: 400px">
+<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/MAAT.gif" style="width: 100%">
 
 Multi-attribute-task used in Kosciessa, J. Q., Lindenberger, U., & Garrett, D. D. (2020). Thalamocortical excitability adjustments guide human perception under uncertainty.
 
