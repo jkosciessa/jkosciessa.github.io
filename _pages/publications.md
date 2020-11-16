@@ -1,6 +1,6 @@
 ---
 title: "Kosciessa - Publications"
-layout: gridlay
+layout: publications
 excerpt: "Kosciessa -- Publications."
 sitemap: false
 permalink: /publications/
