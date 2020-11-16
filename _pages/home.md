@@ -26,3 +26,4 @@ I have a broad interest in Cognitive Psychology, Computational Neuroscience, Mac
 
 **Thalamic influences on cortical dynamics and cognition.** While traditionally considered an early relay for sensory information, the centrally-located thalamus is ideally suited to exert a large influence on the fine computations in cortex. However, its multifaceted influence on the dynamics of cortical networks and higher-order cognition is only starting to be uncovered. I use a multi-modal approach combining high temporal resolution in the cortical EEG with high spatial resolution with fMRI to probe these conceptual relations.
 
+<br />

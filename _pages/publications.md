@@ -46,3 +46,5 @@ Kloosterman, N. A., **Kosciessa, J. Q.**, Lindenberger, U., Fahrenfort, J. J., &
 Hämmerer, D., Callaghan, M. F., Hopkins, A., **Kosciessa, J.**, Betts, M., Cardenas-Blanco, A., Kanowski, M., Weiskopf, N., Dayan, P., Dolan, R. J., & Düzel, E. (2018). Locus coeruleus integrity in old age is selectively related to memories linked with salient negative events.Proceedings of the National Academy of Sciences of the United States of America, 115, 2228-2233. doi:10.1073/pnas.1712268115
 
 [Article](https://www.pnas.org/content/115/9/2228)
+
+<br />

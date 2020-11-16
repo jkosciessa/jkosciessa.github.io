@@ -47,3 +47,5 @@ A short tutorial is provided [here](https://www.fieldtriptoolbox.org/example/ent
 Multi-attribute-task used in Kosciessa, J. Q., Lindenberger, U., & Garrett, D. D. (2020). Thalamocortical excitability adjustments guide human perception under uncertainty.
 
 The code is provided [here](https://git.mpib-berlin.mpg.de/LNDG/multi-attribute-task).
+
+<br />
