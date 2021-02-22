@@ -1,8 +1,8 @@
-I"û<p>I am a post-doctoral researcher currently at the <a href="https://www.mpib-berlin.mpg.de/en">Max Planck Institute for Human Development</a>, associated with the <a href="https://www.mps-ucl-centre.mpg.de/en/about-the-centre/research-groups/lifespan-neural-dynamics-group">Lifespan Neural Dynamics Group</a>. Prior to my doctoral studies in the <a href="https://www.mps-ucl-centre.mpg.de/comp2psych">IMPRS Comp2Psych program</a>, I completed an M.Sc. in the <a href="http://www.mind-and-brain.de/home/">Berlin School of Mind and Brain program</a> at Humboldt Universit√§t zu Berlin.</p>
+I"≥<p>I am a post-doctoral researcher currently at the <a href="https://www.mpib-berlin.mpg.de/en">Max Planck Institute for Human Development</a>, associated with the <a href="https://www.mps-ucl-centre.mpg.de/en/about-the-centre/research-groups/lifespan-neural-dynamics-group">Lifespan Neural Dynamics Group</a>. Prior to my doctoral studies in the <a href="https://www.mps-ucl-centre.mpg.de/comp2psych">IMPRS Comp2Psych program</a>, I completed an M.Sc. in the <a href="http://www.mind-and-brain.de/home/">Berlin School of Mind and Brain program</a> at Humboldt Universit√§t zu Berlin.</p>
 
 <p>I have a broad interest in Cognitive Psychology, Computational Neuroscience, Machine Learning, and Computational Biology and employ an array of techniques, including <em>computational modeling of behavior</em>, electroencephalography (<em>EEG</em>), structural and functional magnetic resonance imaging (<em>s/fMRI</em>), <em>pupillometry</em> as well as <em>numerical simulations</em>.</p>
 
-<p><strong>You can find a recent CV</strong> <a href="http://localhost:4000/downloads/CV.pdf">(here)</a> <strong>!</strong></p>
+<p><strong>You can find a recent CV</strong> <a href="http://localhost:4000/downloads/CV_Public.pdf">(here)</a> <strong>!</strong></p>
 
 <p><img class="img-responsive" src="http://localhost:4000/images/rhythm.jpeg" /></p>
 
@@ -18,4 +18,5 @@
 
 <p><strong>Thalamic influences on cortical dynamics and cognition.</strong> While traditionally considered an early relay for sensory information, the centrally-located thalamus is ideally suited to exert a large influence on the fine computations in cortex. However, its multifaceted influence on the dynamics of cortical networks and higher-order cognition is only starting to be uncovered. I use a multi-modal approach combining high temporal resolution in the cortical EEG with high spatial resolution with fMRI to probe these conceptual relations.</p>
 
+<p><br /></p>
 :ET
