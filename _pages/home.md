@@ -10,7 +10,7 @@ I am a post-doctoral researcher currently at the [Max Planck Institute for Human
 
 I have a broad interest in Cognitive Psychology, Computational Neuroscience, Machine Learning, and Computational Biology and employ an array of techniques, including *computational modeling of behavior*, electroencephalography (*EEG*), structural and functional magnetic resonance imaging (*s/fMRI*), *pupillometry* as well as *numerical simulations*.
 
- **You can find a recent CV** [(here)]({{ site.url }}{{ site.baseurl }}/downloads/CV_Public.pdf) **!**
+ **You can find a recent CV** [(here)]({{ site.url }}{{ site.baseurl }}/downloads/CV.pdf) **!**
 
 <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/rhythm.jpeg">
 

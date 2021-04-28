@@ -13,13 +13,14 @@ permalink: /publications/
 [library](https://doi.org/10.18452/22040)
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/dissertation_kosciessa_julian.pdf)
 
-**Kosciessa, J. Q.**, Lindenberger, U. & Garrett, D. D. (2020). Thalamocortical excitability adjustments guide human perception under uncertainty. Manuscript submitted for publication.
+**Kosciessa, J. Q.**, Lindenberger, U., & Garrett, D. D. (2021). Thalamocortical excitability modulation guides human perception under uncertainty. Nature Communications, 12(1), 2430. doi:10.1038/s41467-021-22511-7
 
+[Article](https://www.nature.com/articles/s41467-021-22511-7)
 [bioRxiv-v1](https://www.biorxiv.org/content/10.1101/2020.06.22.165118v1)
 [Task](https://git.mpib-berlin.mpg.de/LNDG/multi-attribute-task)
 [Data](https://osf.io/ug4b8/)
 [Code](https://git.mpib-berlin.mpg.de/LNDG/stateswitch)
-[PDF]({{ site.url }}{{ site.baseurl }}/downloads/2020_StateSwitch.pdf)
+[PDF]({{ site.url }}{{ site.baseurl }}/downloads/2021_NatComms_StateSwitch.pdf)
 
 Kloosterman, N. A., **Kosciessa, J. Q.**, Lindenberger, U., Fahrenfort, J. J., & Garrett, D. D. (2020). Boosts in brain signal variability track liberal shifts in decision bias. Elife, 9. doi:10.7554/eLife.54201
 
