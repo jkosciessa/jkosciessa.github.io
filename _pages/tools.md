@@ -16,7 +16,7 @@ Projects I have worked on produced multiple tools that I hope are useful for the
 
 **Kosciessa, J. Q.**, Grandy, T. H., Garrett, D. D., & Werkle-Bergner, M. (2020). Single-trial characterization of neural rhythms: Potential and challenges. NeuroImage, 206, 116331. doi:10.1016/j.neuroimage.2019.116331
 
-<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/rhythm.jpeg" style="width: 100%">
+<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/rhythm.png" style="width: 100%">
 
 Rhythmic patterns in neural time series provide a window on the neural dynamics that shape perception, cognition and action, and therefore are a major signal of interest in the cognitive, computational and systems neurosciences. However, typical descriptions of rhythmicity lack detail, e.g., failing to indicate when and for how long rhythms occur. Such lack of detail becomes problematic in the face of non-stationarities in rhythmic engagement, i.e., when the presence of rhythms varies over time. To overcome resulting pitfalls, there is a need for methods that identify the occurence of non-stationary rhythmic periods in a systematic manner.
 
