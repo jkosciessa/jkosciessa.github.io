@@ -8,7 +8,7 @@ permalink: /tools
 
 <h2>Open tools and materials</h2>
 
-Projects I have worked on produced multiple tools that I hope are useful for scientific purposes with no guarantees that tools are or will remain working as intended.
+Projects I have worked on produced multiple tools that I hope are useful for the science community.
 
 <br />
 
