@@ -1,6 +1,6 @@
 # Website
 
-This is the personal website of Julian Kosciessa that is hosted at [juliankosciessa.eu](https://juliankosciessa.eu).
+This is the personal website of Julian Kosciessa that is hosted at [juliankosciessa.eu](http://juliankosciessa.eu).
 
 This website is powered by Jekyll and some Bootstrap and Bootwatch. The website is adapted from the [template provided by the Allan Lab](https://github.com/mpa139/allanlab).
 
