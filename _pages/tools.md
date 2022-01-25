@@ -22,8 +22,11 @@ Rhythmic patterns in neural time series provide a window on the neural dynamics 
 
 eBOSC (extended Better OSCillation detection) is a toolbox (or a set of scripts) that can be used to detect the occurrence of rhythms in continuous signals (i.e., at the single trial level). It uses a static aperiodic ‘background’ spectrum as the basis to define a ‘power threshold’ that continuous signals have to exceed in order to qualify as ‘rhythmic’. As such, it leverages the observation that stochastic components of the frequency spectrum of neural data are characterized by a '1/f'-like power spectrum. An additional ‘duration threshold’ can be set up in advance, or rhythmic episodes can be filtered by duration following detection to ensure that detected rhythmic episodes have a rather sustained vs. transient appearance. The main goal of the code is to produce a list of rhythmic episodes.
 
-The code is provided [here](https://github.com/jkosciessa/eBOSC).
+The MATLAB code is provided [here](https://github.com/jkosciessa/eBOSC).
 A wiki is provided [here](https://github.com/jkosciessa/eBOSC/wiki).
+
+A python version is available provided [on GitHub](https://github.com/jkosciessa/eBOSC_py) and [on pypi](https://pypi.org/project/ebosc/).
+
 
 <br />
 
