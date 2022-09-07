@@ -13,9 +13,9 @@ permalink: /publications/
 [Project](https://www.eegmanypipelines.org/)
 [Github](https://github.com/jkosciessa/eegmp)
 [Data](https://gin.g-node.org/juliankosciessa/eegmp_data)
-[Preprocessing](https://gin.g-node.org/juliankosciessa/eegmp_preproc)
+[Preproc](https://gin.g-node.org/juliankosciessa/eegmp_preproc)
 [Analysis](https://gin.g-node.org/juliankosciessa/eegmp_analysis)
-[Datalad catalog](https://jkosciessa.github.io/datalad_cat_test/)
+[DataCat](https://jkosciessa.github.io/datalad_cat_test/)
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2022_EEGmanypipelines.pdf)
 
 Garrett, D. D., Kloosterman, N. A., Epp, S., Chopurian, V., **Kosciessa, J. Q.**, Waschke, L., . . . Lindenberger, U. (2022). Dynamic regulation of neural variability during working memory reflects dopamine, functional integration, and decision-making. doi:10.1101/2022.05.05.490687
