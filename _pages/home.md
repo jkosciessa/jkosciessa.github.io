@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-I am a post-doctoral researcher currently at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en), associated with the [Lifespan Neural Dynamics Group](https://www.mps-ucl-centre.mpg.de/en/about-the-centre/research-groups/lifespan-neural-dynamics-group). Prior to my doctoral studies in the [IMPRS Comp2Psych program](https://www.mps-ucl-centre.mpg.de/comp2psych), I completed an M.Sc. in the [Berlin School of Mind and Brain program](http://www.mind-and-brain.de/home/) at Humboldt Universität zu Berlin. 
+I am a postdoctoral researcher currently at the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/) at Radboud University in Nijmegen, the Netherlands. I am situated at the Faculty of Social Sciences, working within the [Cognitive Neuromodulation](http://lennartverhagen.com/) group. Prior research was performed at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) within the [Lifespan Neural Dynamics Group](https://www.mps-ucl-centre.mpg.de/en/about-the-centre/research-groups/lifespan-neural-dynamics-group). Prior to my doctoral studies in the [IMPRS Comp2Psych program](https://www.mps-ucl-centre.mpg.de/comp2psych), I completed an M.Sc. in the [Berlin School of Mind and Brain program](http://www.mind-and-brain.de/home/) at Humboldt Universität zu Berlin. 
 
 I have a broad interest in Cognitive Psychology, Computational Neuroscience, Machine Learning, and Computational Biology and employ an array of techniques, including *computational modeling of behavior*, electroencephalography (*EEG*), structural and functional magnetic resonance imaging (*s/fMRI*), *pupillometry* as well as *numerical simulations*.
 
