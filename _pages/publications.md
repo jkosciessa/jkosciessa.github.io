@@ -8,6 +8,16 @@ permalink: /publications/
 
 # Publications
 
+**Kosciessa, J. Q.** (2022). EEGmanypipelines contribution
+
+[Project](https://www.eegmanypipelines.org/)
+[Github](https://github.com/jkosciessa/eegmp)
+[Data](https://gin.g-node.org/juliankosciessa/eegmp_data)
+[Preprocessing](https://gin.g-node.org/juliankosciessa/eegmp_preproc)
+[Analysis](https://gin.g-node.org/juliankosciessa/eegmp_analysis)
+[Datalad catalog](https://jkosciessa.github.io/datalad_cat_test/)
+[PDF]({{ site.url }}{{ site.baseurl }}/downloads/2022_EEGmanypipelines.pdf)
+
 **Kosciessa, J. Q.** (2020, Dr. rer. nat.). Measurement and relevance of rhythmic and aperiodic human brain dynamics. Humboldt-Universität zu Berlin. doi:10.18452/22040
 
 [library](https://doi.org/10.18452/22040)
