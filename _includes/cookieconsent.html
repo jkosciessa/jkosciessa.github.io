@@ -1,0 +1,53 @@
+<link rel="stylesheet" type="text/css" href="{{ 'assets/css/cookieconsent.css' | absolute_url  }}" />
+<script src="{{ 'assets/js/cookieconsent.min.js' | absolute_url  }}"></script>
+<script>
+    function loadGAonConsent() {
+        window.ga = window.ga || function () {
+            (ga.q = ga.q || []).push(arguments)
+        };
+        ga.l = +new Date;
+        ga('create', 'G-MQ0Q2QLR6V', 'auto');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+        var gascript = document.createElement("script");
+        gascript.async = true;
+        gascript.src = "https://www.google-analytics.com/analytics.js";
+        document.getElementsByTagName("head")[0].appendChild(gascript, document.getElementsByTagName("head")[0]);
+    }
+
+    if (document.cookie.split(';').filter(function (item) {
+            return item.indexOf('cookieconsent_status=allow') >= 0
+        }).length) {
+        loadGAonConsent();
+    }
+
+    window.addEventListener("load", function () {
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#313451"
+                },
+                "button": {
+                    "background": "#4a4f79"
+                }
+            },
+            "theme": "classic",
+            "type": "opt-in",
+            "content": {
+                "message": "This page uses Cookies and Google Analytics to get insights into usage patterns and make this website as useful as possible.",
+                "deny": "Deny",
+                "allow": "Accept",
+                "link": "Privacy notice",
+                "href": "www.juliankosciessa.eu/privacy.html"
+            },
+            onStatusChange: function (status, chosenBefore) {
+                var type = this.options.type;
+                var didConsent = this.hasConsented();
+                if (type == 'opt-in' && didConsent) {
+                    // enable cookies
+                    loadGAonConsent();
+                }
+            }
+        })
+    });
+</script>
