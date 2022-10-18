@@ -10,7 +10,7 @@ I am a postdoctoral researcher currently at the [Donders Institute for Brain, Co
 
 I have a broad interest in Cognitive Psychology, Computational Neuroscience, Machine Learning, and Computational Biology and employ an array of techniques, including *computational modeling of behavior*, electroencephalography (*EEG*), structural and functional magnetic resonance imaging (*s/fMRI*), *pupillometry* as well as *numerical simulations*.
 
- **You can find a recent CV** [(here)]({{ site.url }}{{ site.baseurl }}/downloads/CV.pdf) **!**
+ **You can find a recent CV** [(here)]({{ site.url }}{{ site.baseurl }}/downloads/cv_kosciessa.pdf) **!**
 
 <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/rhythm.png">
 
