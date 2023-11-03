@@ -8,6 +8,14 @@ permalink: /publications/
 
 # Publications
 
+**Kosciessa, J. Q.**, Mayr, U., Lindenberger, U. & Garrett, D. D. Broadscale dampening of uncertainty adjustment in the aging brain. bioRxiv, 2023.2007.2014.549093 (2023). https://doi.org:10.1101/2023.07.14.549093
+
+[biorxiv](https://www.biorxiv.org/content/10.1101/2023.07.14.549093v1)
+[tweet](https://twitter.com/JulianKosciessa/status/1681362465039196161)
+[code](https://git.mpib-berlin.mpg.de/LNDG/stateswitchage/stsw)
+[task](https://git.mpib-berlin.mpg.de/LNDG/multi-attribute-task)
+[PDF]({{ site.url }}{{ site.baseurl }}/downloads/2023-Kosciessa-StateSwitchAging)
+
 **Kosciessa, J. Q.** (2022). EEGmanypipelines contribution
 
 [Project](https://www.eegmanypipelines.org/)
