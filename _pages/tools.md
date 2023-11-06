@@ -13,6 +13,7 @@ Projects I have worked on produced multiple tools that I hope are useful for the
 <br />
 
 ### extended Better OSCillation Detection (eBOSC)
+[![DOI](https://zenodo.org/badge/138600886.svg)](https://zenodo.org/badge/latestdoi/138600886)
 
 **Kosciessa, J. Q.**, Grandy, T. H., Garrett, D. D., & Werkle-Bergner, M. (2020). Single-trial characterization of neural rhythms: Potential and challenges. NeuroImage, 206, 116331. doi:10.1016/j.neuroimage.2019.116331
 
@@ -25,12 +26,14 @@ eBOSC (extended Better OSCillation detection) is a toolbox (or a set of scripts)
 The MATLAB code is provided [here](https://github.com/jkosciessa/eBOSC).
 A wiki is provided [here](https://github.com/jkosciessa/eBOSC/wiki).
 
-A python version is available provided [on GitHub](https://github.com/jkosciessa/eBOSC_py) and [on pypi](https://pypi.org/project/ebosc/).
+A python version is available provided [on GitHub](https://github.com/jkosciessa/eBOSC_py) and [on pypi](https://pypi.org/project/ebosc/). [![DOI](https://zenodo.org/badge/342610969.svg)](https://zenodo.org/badge/latestdoi/342610969)
+
 
 
 <br />
 
 ### modified MultiScale Entropy (mMSE)
+[![DOI](https://zenodo.org/badge/204967802.svg)](https://zenodo.org/badge/latestdoi/204967802)
 
 **Kosciessa, J. Q.**, Kloosterman, N. A., & Garrett, D. D. (2020). Standard multiscale entropy reflects neural dynamics at mismatched temporal scales: What's signal irregularity got to do with it? PLoS Computational Biology, 16(5), e1007885. doi:10.1371/journal.pcbi.1007885
 
@@ -50,5 +53,16 @@ A short tutorial is provided [here](https://www.fieldtriptoolbox.org/example/ent
 Multi-attribute-task used in Kosciessa, J. Q., Lindenberger, U., & Garrett, D. D. (2020). Thalamocortical excitability adjustments guide human perception under uncertainty.
 
 The code is provided [here](https://git.mpib-berlin.mpg.de/LNDG/multi-attribute-task).
+
+<br />
+
+### Computer-Assisted Response Labeler (CARL)
+[![DOI](https://zenodo.org/badge/444434425.svg)](https://zenodo.org/badge/latestdoi/444434425)
+
+<img class="img-responsive" src="https://github.com/jkosciessa/carl/raw/main/util/logo.png" style="width: 25%">
+
+Voice is a naturalistic response mode in psychological experiments, but labeling thousands of word responses, sometimes from continuous recordings, requires time and patience. CARL has been designed to make the manual labeling process smoother and more time-efficient, as well as to provide measures of voice on- and offset times. It facilitates labeling by (a) splitting long recordings into word chunks (if not already provided by the user as separate words), (b) automatically pre-labeling word on- and offsets based on sound energy, (c) allowing quick manual refinement of sound on- and offsets via drag and drop, (d) providing a few options for label speed-up, e.g., auto-starting only the pre-labeled portions of the recording, (e) allows to manually split chunks containing multiple words into separate segments.
+
+The code is provided [here](https://github.com/jkosciessa/carl).
 
 <br />
