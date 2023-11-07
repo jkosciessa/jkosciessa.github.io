@@ -14,7 +14,7 @@ permalink: /publications/
 [tweet](https://twitter.com/JulianKosciessa/status/1681362465039196161)
 [code](https://git.mpib-berlin.mpg.de/LNDG/stateswitchage/stsw)
 [task](https://git.mpib-berlin.mpg.de/LNDG/multi-attribute-task)
-[PDF]({{ site.url }}{{ site.baseurl }}/downloads/2023-Kosciessa-StateSwitchAging)
+[PDF]({{ site.url }}{{ site.baseurl }}/downloads/2023-Kosciessa-StateSwitchAging.pdf)
 
 **Kosciessa, J. Q.** (2022). EEGmanypipelines contribution
 
