@@ -8,13 +8,17 @@ permalink: /publications/
 
 # Publications
 
-**Kosciessa, J. Q.**, Mayr, U., Lindenberger, U. & Garrett, D. D. (2023) Broadscale dampening of uncertainty adjustment in the aging brain. bioRxiv. https://doi.org:10.1101/2023.07.14.549093
+**Kosciessa, J. Q.**, Mayr, U., Lindenberger, U. & Garrett, D. D. (2023) Broadscale dampening of uncertainty adjustment in the aging brain. Nat Commun 15, 10717 (2024). https://doi.org:10.1038/s41467-024-55416-2
 
+[paper](https://www.nature.com/articles/s41467-024-55416-2)
+[peerreview](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-55416-2/MediaObjects/41467_2024_55416_MOESM2_ESM.pdf)
+[supplement](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-55416-2/MediaObjects/41467_2024_55416_MOESM1_ESM.pdf)
 [biorxiv](https://www.biorxiv.org/content/10.1101/2023.07.14.549093v1)
-[tweet](https://twitter.com/JulianKosciessa/status/1681362465039196161)
-[code](https://git.mpib-berlin.mpg.de/LNDG/stateswitchage/stsw)
-[task](https://git.mpib-berlin.mpg.de/LNDG/multi-attribute-task)
-[PDF]({{ site.url }}{{ site.baseurl }}/downloads/2023-Kosciessa-StateSwitchAging.pdf)
+[bluesky](https://bsky.app/profile/juliankosciessa.bsky.social/post/3lf5udqrfpc2g)
+[code](https://doi.org/10.5281/zenodo.14221999)
+[data](https://doi.org/10.5281/zenodo.14264868)
+[task](https://doi.org/10.5281/zenodo.14216065)
+[PDF]({{ site.url }}{{ site.baseurl }}/downloads/2024-Kosciessa-StateSwitchAging.pdf)
 
 
 Skowron, A., **Kosciessa, J. Q.**, Lorenz, R., Hertwig, R., Bos, W. van den, & Garrett, D. D. (2024). Neural variability compresses with increasing belief precision during Bayesian inference. bioRxiv. https://doi.org:10.1101/2024.01.11.575180
