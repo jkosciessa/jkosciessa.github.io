@@ -6,5 +6,7 @@ This website is powered by Jekyll and some Bootstrap and Bootwatch. The website 
 
 Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
 
+Analytics are provided by https://eu.posthog.com/.
+
 Copyright (c) Julian Kosciessa. Code released under the MIT License.
 
