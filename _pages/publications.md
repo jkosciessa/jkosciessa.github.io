@@ -8,7 +8,11 @@ permalink: /publications/
 
 # Publications
 
-**Kosciessa, J. Q.**, Mayr, U., Lindenberger, U. & Garrett, D. D. (2023) Broadscale dampening of uncertainty adjustment in the aging brain. Nat Commun 15, 10717 (2024). https://doi.org:10.1038/s41467-024-55416-2
+Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nassar, M. R., Werkle-Bergner, M., Craik, F. I. M., Lindenberger, U., Mayr, U., Rajah, M. N., Raz, N., Nyberg, L., & Garrett, D. D. (2025). Toward a functional future for the cognitive neuroscience of human aging. Neuron, 113(1), 154-183. https://doi.org/10.1016/j.neuron.2024.12.008 
+
+[paper](https://authors.elsevier.com/sd/article/S0896-6273(24)00886-9)
+
+**Kosciessa, J. Q.**, Mayr, U., Lindenberger, U. & Garrett, D. D. (2024) Broadscale dampening of uncertainty adjustment in the aging brain. Nat Commun 15, 10717. https://doi.org:10.1038/s41467-024-55416-2
 
 [paper](https://www.nature.com/articles/s41467-024-55416-2)
 [peerreview](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-55416-2/MediaObjects/41467_2024_55416_MOESM2_ESM.pdf)
