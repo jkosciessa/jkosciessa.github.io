@@ -23,12 +23,25 @@ Rhythmic patterns in neural time series provide a window on the neural dynamics 
 
 eBOSC (extended Better OSCillation detection) is a toolbox (or a set of scripts) that can be used to detect the occurrence of rhythms in continuous signals (i.e., at the single trial level). It uses a static aperiodic ‘background’ spectrum as the basis to define a ‘power threshold’ that continuous signals have to exceed in order to qualify as ‘rhythmic’. As such, it leverages the observation that stochastic components of the frequency spectrum of neural data are characterized by a '1/f'-like power spectrum. An additional ‘duration threshold’ can be set up in advance, or rhythmic episodes can be filtered by duration following detection to ensure that detected rhythmic episodes have a rather sustained vs. transient appearance. The main goal of the code is to produce a list of rhythmic episodes.
 
-The MATLAB code is provided [here](https://github.com/jkosciessa/eBOSC).
-A wiki is provided [here](https://github.com/jkosciessa/eBOSC/wiki).
+The MATLAB code is provided [here](https://github.com/jkosciessa/eBOSC).<br>
+A wiki is provided [here](https://github.com/jkosciessa/eBOSC/wiki).<br>
 
 A python version is available provided [on GitHub](https://github.com/jkosciessa/eBOSC_py) and [on pypi](https://pypi.org/project/ebosc/). [![DOI](https://zenodo.org/badge/342610969.svg)](https://zenodo.org/badge/latestdoi/342610969)
 
+<br />
 
+### PREprocessing & Simulations for Transcranial Ultrasound Stimulation (PRESTUS)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15095860.svg)](https://doi.org/10.5281/zenodo.15095860)
+
+Chetverikov, A.+, **Kosciessa, J. Q.**+, Cornelissen, M., van der Zee, K., & Verhagen, L. (2024). PRESTUS (0.3.0). Zenodo. https://doi.org/10.5281/zenodo.15095861
+
+<img class="img-responsive" src="https://github.com/Donders-Institute/PRESTUS/blob/0857dc25b44fce362873dab78f7ebc20c3685143/documentation/img/figure_6.png" style="width: 25%">
+
+PRESTUS (PREprocessing & Simulations for Transcranial Ultrasound Stimulation) is an open-source MATLAB toolbox that aims to streamline imaging-informed simulations of Transcanial Ultrasound Stimulation (TUS): from the segmentation of T1-weighted MRI head scans and mapping of medium tissue properties (possibly informed for skull via (pseudo-)CT images) in a simulation grid, to the execution of acoustic and thermal simulations using the widely adopted k-Wave engine. High-performance computing (HPC) support via SLURM and CentOS enables efficient parallelization, and large-scale analyses. Output 3D NifTI images are automatically mapped to a standard template (MNI) space to facilitate group reporting.
+
+The MATLAB code is provided [here](https://github.com/Donders-Institute/PRESTUS).<br>
+An overview poster is provided [here]({{ site.url }}{{ site.baseurl }}/downloads/2025-FUN25-PRESTUS.pdf).<br>
+An online lecture on personalized simulations is provided [here](https://nteucampus.org/lesson/personalised-and-precision-stimulation-tus).
 
 <br />
 
@@ -39,7 +52,7 @@ A python version is available provided [on GitHub](https://github.com/jkosciessa
 
 <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/mse.png" style="width: 100%">
 
-The code is provided [here](https://github.com/LNDG/mMSE).
+The code is provided [here](https://github.com/LNDG/mMSE).<br>
 A short tutorial is provided [here](https://www.fieldtriptoolbox.org/example/entropy_analysis).
 
 <br />
