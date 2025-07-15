@@ -7,11 +7,9 @@
 
 # Site settings
 title: Julian Kosciessa
-email: kosciessa@mpib-berlin.mpg.de
+email: julian.kosciessa@donders.ru.nl
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This a professional website for Cognitive Neuroscientist Julian Kosciessa.
 baseurl: ""
 url: ""
 
