@@ -19,6 +19,8 @@ include:
 
 sass:
   sass_dir: _sass
+  # silence Dart Sass deprecation warnings from the bundled Bootstrap 3 sources (local builds only)
+  silence_deprecations: [import, global-builtin, color-functions, slash-div, if-function]
 
 # Conversion
 markdown: kramdown
