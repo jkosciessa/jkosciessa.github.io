@@ -6,13 +6,24 @@ sitemap: false
 permalink: /
 ---
 
-I am a cognitive computational neuroscientist and Research Fellow at the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/) at Radboud University in Nijmegen, the Netherlands. I lead the [Cognitive Neurodynamics](https://www.ru.nl/en/departments/donders-centre-for-cognition/cognitive-neurodynamics) group at the Donders Centre for Cognition, with close associations to the [Cognitive Neuromodulation](https://www.verhagenlab.com/) group. Prior research was performed at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) within the [Lifespan Neural Dynamics Group](https://www.mps-ucl-centre.mpg.de/en/about-the-centre/research-groups/lifespan-neural-dynamics-group). Prior to my doctoral studies in the [IMPRS Comp2Psych program](https://www.mps-ucl-centre.mpg.de/comp2psych), I completed an M.Sc. in the [Berlin School of Mind and Brain program](http://www.mind-and-brain.de/home/) at Humboldt Universität zu Berlin.
+<div class="hero">
+<div class="hero-text" markdown="1">
 
 I study how brain dynamics keep perception and cognition adaptive in uncertain and changing environments. My research tests how thalamic circuits adjust the precision of cortical processing, combining experimental tasks and behavioral modeling with multimodal neuroimaging (EEG, fMRI) and image-guided transcranial ultrasound stimulation (TUS).
 
-I have a broad interest in Cognitive Psychology, Computational Neuroscience, Machine Learning, and Computational Biology and employ an array of techniques, including *computational modeling of behavior*, electroencephalography (*EEG*), structural and functional magnetic resonance imaging (*s/fMRI*), *pupillometry*, *transcranial ultrasound stimulation (TUS)* as well as *numerical simulations*.
-
 <a class="btn btn-default btn-sm btn-cv" href="{{ site.url }}{{ site.baseurl }}/downloads/cv_kosciessa.pdf"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i>Download CV (PDF)</a>
+
+</div>
+<div class="hero-logo">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo_lab.svg" alt="Cognitive Neurodynamics logo: layered neural signals beside a head with a brain network">
+</div>
+</div>
+
+<h2>About</h2>
+
+I am a cognitive computational neuroscientist and Research Fellow at the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/) at Radboud University in Nijmegen, the Netherlands. I lead the [Cognitive Neurodynamics](https://www.ru.nl/en/departments/donders-centre-for-cognition/cognitive-neurodynamics) group at the Donders Centre for Cognition, with close associations to the [Cognitive Neuromodulation](https://www.verhagenlab.com/) group. Prior research was performed at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) within the [Lifespan Neural Dynamics Group](https://www.mps-ucl-centre.mpg.de/en/about-the-centre/research-groups/lifespan-neural-dynamics-group). Prior to my doctoral studies in the [IMPRS Comp2Psych program](https://www.mps-ucl-centre.mpg.de/comp2psych), I completed an M.Sc. in the [Berlin School of Mind and Brain program](http://www.mind-and-brain.de/home/) at Humboldt Universität zu Berlin.
+
+I have a broad interest in Cognitive Psychology, Computational Neuroscience, Machine Learning, and Computational Biology and employ an array of techniques, including *computational modeling of behavior*, electroencephalography (*EEG*), structural and functional magnetic resonance imaging (*s/fMRI*), *pupillometry*, *transcranial ultrasound stimulation (TUS)* as well as *numerical simulations*.
 
 <h2>Research Interests</h2>
 

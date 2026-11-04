@@ -135,5 +135,12 @@ firstp {
 .btn-cv { margin: 4px 0 8px; }
 .btn-cv i { margin-right: 6px; }
 
-/* Home: lab logo banner */
-#homeid img.home-logo { display: block; width: 100%; max-width: 560px; height: auto; margin: 8px 0 4px; border-radius: 0; }
+/* Home: summary beside lab logo */
+.hero { display: flex; align-items: center; gap: 36px; margin: 28px 0 8px; }
+.hero-text { flex: 1; min-width: 0; font-size: 16px; }
+.hero-logo { flex: 0 0 38%; }
+#homeid .hero-logo img { width: 100%; height: auto; margin: 0; border-radius: 0; box-shadow: none; }
+@media (max-width: 767px) {
+  .hero { flex-direction: column-reverse; gap: 12px; }
+  .hero-logo { flex-basis: auto; width: 80%; }
+}
