@@ -49,11 +49,13 @@ Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nass
 {: .pub-links}
 
 Kloosterman, N. A., **Kosciessa, J. Q.**, Lindenberger, U., Fahrenfort, J. J., & Garrett, D. D. (2020). Boosts in brain signal variability track liberal shifts in decision bias. Elife, 9. doi:10.7554/eLife.54201
+{: #kloosterman-2020 .pub-entry}
 
 [Paper](https://elifesciences.org/articles/54201)
 {: .pub-links}
 
 **Kosciessa, J. Q.**, Kloosterman, N. A., & Garrett, D. D. (2020). Standard multiscale entropy reflects neural dynamics at mismatched temporal scales: What's signal irregularity got to do with it? PLoS Computational Biology, 16(5), e1007885. doi:10.1371/journal.pcbi.1007885
+{: #kosciessa-kloosterman-2020 .pub-entry}
 
 [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007885)
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2020_PlosCB_RhythmsEntropy.pdf)
@@ -65,6 +67,7 @@ Kloosterman, N. A., **Kosciessa, J. Q.**, Lindenberger, U., Fahrenfort, J. J., &
 {: .pub-links}
 
 **Kosciessa, J. Q.**, Grandy, T. H., Garrett, D. D., & Werkle-Bergner, M. (2020). Single-trial characterization of neural rhythms: Potential and challenges. NeuroImage, 206, 116331. doi:10.1016/j.neuroimage.2019.116331
+{: #kosciessa-grandy-2020 .pub-entry}
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S105381191930922X?via%3Dihub)
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2019_NeuroImage_eBOSC.pdf)
@@ -75,6 +78,7 @@ Kloosterman, N. A., **Kosciessa, J. Q.**, Lindenberger, U., Fahrenfort, J. J., &
 {: .pub-links}
 
 Hämmerer, D., Callaghan, M. F., Hopkins, A., **Kosciessa, J.**, Betts, M., Cardenas-Blanco, A., Kanowski, M., Weiskopf, N., Dayan, P., Dolan, R. J., & Düzel, E. (2018). Locus coeruleus integrity in old age is selectively related to memories linked with salient negative events. Proceedings of the National Academy of Sciences of the United States of America, 115, 2228-2233. doi:10.1073/pnas.1712268115
+{: #hammerer-2018 .pub-entry}
 
 [Paper](https://www.pnas.org/content/115/9/2228)
 {: .pub-links}
@@ -92,6 +96,7 @@ Hämmerer, D., Callaghan, M. F., Hopkins, A., **Kosciessa, J.**, Betts, M., Card
 {: .pub-links}
 
 Cesnaite, E., Algermissen, J., Vinding, M. C., Vitale, A., Pascarella, A., Fischer, N. L., Yang, Y.-F., Trübutschek, D., Gianelli, C., Marshall, C. R., … **Kosciessa, J. Q.**, … Nilsonne, G., & Busch, N. A. (2026). Many pipelines, one dataset: Analytic flexibility and its impact in EEG research. MetaArXiv. https://doi.org/10.31222/osf.io/wvx48_v2
+{: #cesnaite-2026 .pub-entry}
 
 [Preprint](https://doi.org/10.31222/osf.io/wvx48_v2)
 {: .pub-links}
@@ -107,6 +112,7 @@ Cesnaite, E., Vitale, A., Pascarella, A., Vinding, M. C., Algermissen, J., Fisch
 {: .pub-links}
 
 Garrett, D. D., Kloosterman, N. A., Epp, S., Chopurian, V., **Kosciessa, J. Q.**, Waschke, L., . . . Lindenberger, U. (2022). Dynamic regulation of neural variability during working memory reflects dopamine, functional integration, and decision-making. doi:10.1101/2022.05.05.490687
+{: #garrett-2022 .pub-entry}
 
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.05.490687v1)
 [tweet](https://x.com/Garrett_Neuro/status/1523617220923863041)
