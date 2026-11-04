@@ -1,7 +1,7 @@
 ---
-title: "Kosciessa - Home"
+title: "Home"
 layout: homelay
-excerpt: "Kosciessa - Home"
+description: "Julian Q. Kosciessa, cognitive computational neuroscientist at the Donders Institute, Radboud University: thalamic control of flexible perception and cognition, EEG, fMRI and transcranial ultrasound stimulation."
 sitemap: false
 permalink: /
 ---
@@ -12,20 +12,20 @@ I study how brain dynamics keep perception and cognition adaptive in uncertain a
 
 I have a broad interest in Cognitive Psychology, Computational Neuroscience, Machine Learning, and Computational Biology and employ an array of techniques, including *computational modeling of behavior*, electroencephalography (*EEG*), structural and functional magnetic resonance imaging (*s/fMRI*), *pupillometry*, *transcranial ultrasound stimulation (TUS)* as well as *numerical simulations*.
 
- **You can find a recent CV** [(here)]({{ site.url }}{{ site.baseurl }}/downloads/cv_kosciessa.pdf) **!**
-
-<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/rhythm.png">
+<a class="btn btn-default btn-sm btn-cv" href="{{ site.url }}{{ site.baseurl }}/downloads/cv_kosciessa.pdf"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i>Download CV (PDF)</a>
 
 <h2>Research Interests</h2>
 
-**General.** I have been educated and am working at the intersection between psychology, brain and data sciences. In my experimental research, I apply computational and statistical modelling techniques (e.g., machine learning) to neural recordings to illuminate mechanisms that allow humans to be remarkably flexible and robust, at unparalleled energy efficiency. Inspired by complex systems research, I leverage the power of signal analysis to improve the measurement of neural dynamics from composite brain signals. I extend available analysis methods via scientific software development, and enjoy pondering both mind-brain philosophy, and how neuro-computational insights can inform generalized AI development.
+**General.** Brains are not static input-output machines, but dynamic systems that adapt perception, cognition, and action to changing demands. My research bridges cognitive, computational, and systems neuroscience to uncover the neural mechanisms underlying this flexibility. I investigate how to measure, functionally characterize, and modulate neural dynamics, from synchronous oscillations to stochastic "noise", as substrates of cognition across the adult lifespan.
 
-**Dynamic characterization of neural rhythms.** Neural rhythms provide insights into how the human brain coordinates information processing in time and space. However, rhythms are not constantly present in neural recordings and a major goal is to identify rhythmic periods in time to better characterize these rhythmic signals and unlock insights into their generation and function.
+**Flexible perceptual and cognitive control under uncertainty.** Humans frequently face environments with varying degrees of uncertainty about what should receive priority in processing. Combining EEG and fMRI during a multi-attribute uncertainty task, my work identified neural "noise" as a characteristic of flexible decisions and proposed cortical excitability adjustments as a candidate mechanism (Kosciessa et al., 2021). This uncertainty response is dampened in older adults, and its maintenance is associated with higher cognitive flexibility (Kosciessa et al., 2024).
 
-**Characterization of ‘neural complexity’.** Neural mechanisms dynamically interact across multiple temporal and spatial scales, both within and across brain regions. This gives rise to a plethora of signatures measured at the scalp. A major goal is to better characterize these fluctuations to infer the presence of different neural activity regimes.
+**Neural rhythms and "noise".** Rhythms are a key signature of neural information coordination, but they are not constantly present and coexist with irregular components traditionally dismissed as background noise. I develop analysis tools that identify rhythmic episodes in single trials ([eBOSC]({{ site.url }}{{ site.baseurl }}/tools)) and characterize signal irregularity at matched temporal scales ([mMSE]({{ site.url }}{{ site.baseurl }}/tools)).
 
-**Facing environmental uncertainty.** Humans frequently face complex environments with varying degrees of uncertainty about what should receive priority in processing. A major interest of mine concerns how the brain identifies this uncertainty, and how it changes its dynamics to create an adaptive course of action.
+**Thalamic influences on cortical dynamics and cognition.** The deep brain thalamus is ideally suited to dynamically regulate specific computations in cortex. Combining the high temporal resolution of EEG with the high spatial resolution of fMRI, my work linked thalamic engagement to dynamic cortical states during perceptual decisions under uncertainty (Kosciessa et al., 2021, 2024).
 
-**Thalamic influences on cortical dynamics and cognition.** The deep brain thalamus is ideally suited to dynamically regulate specific computations in cortex. However, its multifaceted influence on the dynamics of cortical networks in service of perception, cognition and action remains elusive. I use a multi-modal approach combining high temporal resolution in the cortical EEG with high spatial resolution fMRI to probe these relations, and image-guided transcranial ultrasound stimulation to modulate thalamic activity non-invasively.
+**Transcranial ultrasound stimulation (TUS).** The thalamus' small size and deep location have long limited its investigation, and targeted interventions, in humans. TUS is a non-invasive brain stimulation technique that can reach deep brain structures with high spatial specificity. I use image-guided TUS, including concurrent fMRI to assess target engagement, to test how thalamic circuits contribute to flexible perception and cognition. I also contribute to TUS methods and best practice: through the open-source simulation toolbox [PRESTUS]({{ site.url }}{{ site.baseurl }}/tools), the ITRUSST working group on acoustic properties, and teaching in the NeuroTechEU course [TUS: Foundations](https://nteucampus.org/course/transcranial-ultrasonic-stimulation-tus-foundations).
+
+**Open and reproducible science.** I treat code, data, and materials as primary scientific outputs. I publish workflows that link version-controlled code and data, develop open-source [tools]({{ site.url }}{{ site.baseurl }}/tools), and teach research data management, including as a ReproNim/INCF fellow.
 
 <br />

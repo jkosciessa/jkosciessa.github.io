@@ -43,3 +43,16 @@ kramdown:
 
 plugins:
   - jekyll-gist
+  - jekyll-seo-tag
+
+# jekyll-seo-tag: sharing previews (Open Graph / Twitter cards)
+author: Julian Q. Kosciessa
+lang: en
+twitter:
+  username: JulianKosciessa
+  card: summary_large_image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/logo_lab.png
