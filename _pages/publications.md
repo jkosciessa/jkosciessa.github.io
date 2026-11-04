@@ -31,6 +31,8 @@ Cesnaite, E., Vitale, A., Pascarella, A., Vinding, M. C., Algermissen, J., Fisch
 
 **Kosciessa, J. Q.**, Wimmers, M., Krijgsman, S., & Verhagen, L. (2025). Dissociable effects of uncertainty in perceptual and cognitive control. 8th Conference on Cognitive Computational Neuroscience (CCN 2025), Amsterdam, The Netherlands.
 
+[paper](https://2025.ccneuro.org/abstract_pdf/Kosciessa_2025_Dissociable_Effects_Uncertainty_Perceptual_Cognitive_Control.pdf)
+
 Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nassar, M. R., Werkle-Bergner, M., Craik, F. I. M., Lindenberger, U., Mayr, U., Rajah, M. N., Raz, N., Nyberg, L., & Garrett, D. D. (2025). Toward a functional future for the cognitive neuroscience of human aging. Neuron, 113(1), 154-183. https://doi.org/10.1016/j.neuron.2024.12.008 
 
 [paper](https://authors.elsevier.com/sd/article/S0896-6273(24)00886-9)
@@ -60,7 +62,7 @@ Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nass
 Garrett, D. D., Kloosterman, N. A., Epp, S., Chopurian, V., **Kosciessa, J. Q.**, Waschke, L., . . . Lindenberger, U. (2022). Dynamic regulation of neural variability during working memory reflects dopamine, functional integration, and decision-making. doi:10.1101/2022.05.05.490687
 
 [biorxiv](https://www.biorxiv.org/content/10.1101/2022.05.05.490687v1)
-[tweet](https://twitter.com/Garrett_Neuro/status/1523617220923863041)
+[X](https://x.com/Garrett_Neuro/status/1523617220923863041)
 
 **Kosciessa, J. Q.** (2020, Dr. rer. nat.). Measurement and relevance of rhythmic and aperiodic human brain dynamics. Humboldt-Universität zu Berlin. doi:10.18452/22040
 
