@@ -74,7 +74,7 @@ I treat code, data, and materials as primary scientific outputs. I publish workf
 <summary markdown="span">Selected awards and fellowships</summary>
 
 - 2026 · Donders Open Research Output Award (inaugural), for open TUS research software (PRESTUS)
-- 2025 · Gold Poster Award, Focused Ultrasound Neuromodulation Conference (FUN25), for PRESTUS
+- 2025 · Gold Poster Award, Focused Ultrasound Neuromodulation Conference (FUN25)
 - 2022 · Otto Hahn Medal of the Max Planck Society
 - 2022 · Radboud Excellence Initiative Fellowship
 - 2022 · ReproNim/INCF Fellowship
