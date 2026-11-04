@@ -68,20 +68,18 @@ I treat code, data, and materials as primary scientific outputs. I publish workf
 
 </details>
 
-<h2>Awards and Fellowships</h2>
+<details class="ri section-toggle" markdown="1">
+<summary markdown="span">Awards and fellowships</summary>
 
-<details class="ri" markdown="1">
-<summary markdown="span">Selected awards and fellowships</summary>
-
-- 2026 · Donders Open Research Output Award (inaugural), for open TUS research software (PRESTUS)
+- 2026 · [Donders Open Research Output Award](https://www.ru.nl/en/donders-institute/news/donders-day-2026-science-community-and-recognition) (inaugural), for open TUS research software (PRESTUS)
 - 2025 · Gold Poster Award, Focused Ultrasound Neuromodulation Conference (FUN25)
-- 2022 · Otto Hahn Medal of the Max Planck Society
+- 2022 · [Otto Hahn Medal](https://www.mpib-berlin.mpg.de/award/julian-kosciessa-was-awarded-the-otto-hahn-medal-2022) of the Max Planck Society
 - 2022 · Radboud Excellence Initiative Fellowship
-- 2022 · ReproNim/INCF Fellowship
-- 2021 · DGPA Brain Products Young Scientist Award
+- 2022 · [ReproNim/INCF Fellowship](https://repronim.org/fellowship/)
+- 2021 · [DGPA Brain Products Young Scientist Award](https://pressrelease.brainproducts.com/dgpa21/)
 - 2021 · Merit Abstract Award, OHBM Annual Meeting
 - 2018 · IBRO Poster Award, Interpreting BOLD
-- 2016–2020 · IMPRS COMP2PSYCH Fellowship, Max Planck UCL Centre for Computational Psychiatry and Ageing Research
+- 2016–2020 · [IMPRS COMP2PSYCH](https://www.mps-ucl-centre.mpg.de/comp2psych) Fellowship, Max Planck UCL Centre for Computational Psychiatry and Ageing Research
 
 </details>
 
