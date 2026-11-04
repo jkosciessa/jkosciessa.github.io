@@ -144,3 +144,7 @@ firstp {
   .hero { flex-direction: column; gap: 12px; }
   .hero-logo { flex-basis: auto; width: 80%; }
 }
+
+/* Tools: award note */
+.tool-award { padding: 6px 10px; background: #fbf6ee; border-left: 3px solid #9e1e2d; font-size: 14px; }
+.tool-award i { color: #9e1e2d; margin-right: 4px; }
