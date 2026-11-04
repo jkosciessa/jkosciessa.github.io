@@ -62,7 +62,7 @@ Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nass
 Garrett, D. D., Kloosterman, N. A., Epp, S., Chopurian, V., **Kosciessa, J. Q.**, Waschke, L., . . . Lindenberger, U. (2022). Dynamic regulation of neural variability during working memory reflects dopamine, functional integration, and decision-making. doi:10.1101/2022.05.05.490687
 
 [biorxiv](https://www.biorxiv.org/content/10.1101/2022.05.05.490687v1)
-[X](https://x.com/Garrett_Neuro/status/1523617220923863041)
+[tweet](https://x.com/Garrett_Neuro/status/1523617220923863041)
 
 **Kosciessa, J. Q.** (2020, Dr. rer. nat.). Measurement and relevance of rhythmic and aperiodic human brain dynamics. Humboldt-Universität zu Berlin. doi:10.18452/22040
 

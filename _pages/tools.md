@@ -41,7 +41,7 @@ PRESTUS (PREprocessing & Simulations for Transcranial Ultrasound Stimulation) is
 
 The MATLAB code is provided [here](https://github.com/Donders-Institute/PRESTUS).<br>
 An overview poster is provided [here]({{ site.url }}{{ site.baseurl }}/downloads/2025-FUN25-PRESTUS.pdf).<br>
-An online lecture on personalized simulations is provided [here](https://nteucampus.org/lesson/personalised-and-precision-stimulation-tus).
+An online lecture on personalized simulations is provided [here](https://nteucampus.org/lesson/personalised-and-precision-stimulation-tus), as part of the NeuroTechEU course [Transcranial Ultrasonic Stimulation (TUS): Foundations](https://nteucampus.org/course/transcranial-ultrasonic-stimulation-tus-foundations).
 
 <br />
 
