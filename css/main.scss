@@ -148,3 +148,11 @@ firstp {
 /* Tools: award note */
 .tool-award { padding: 6px 10px; background: #fbf6ee; font-size: 14px; }
 .tool-award i { color: #9e1e2d; margin-right: 4px; }
+
+/* Navigation: name, logo and menu items scale together on medium screens so the bar stays on one line */
+@media (min-width: 768px) {
+  .navbar-brand { font-size: clamp(15px, 1.6vw, 20px); }
+  .navbar-brand-name > img { height: clamp(26px, 2.6vw, 35px) !important; }
+  .navbar-nav > li > a { font-size: clamp(13px, 1.2vw, 16px); padding-left: clamp(5px, 0.9vw, 15px); padding-right: clamp(5px, 0.9vw, 15px); }
+  .navbar-nav > li.nav-sep { margin-left: clamp(2px, 0.4vw, 6px); margin-right: clamp(2px, 0.4vw, 6px); }
+}
