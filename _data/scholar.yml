@@ -1,0 +1,29 @@
+# Google Scholar snapshot (https://scholar.google.com/citations?user=cCY_YoUAAAAJ)
+# Update by hand from the profile page; Scholar offers no API.
+updated: 2026-11-04
+profile: https://scholar.google.com/citations?user=cCY_YoUAAAAJ
+citations: 737
+h_index: 9
+i10_index: 9
+by_year:
+  - { year: 2018, n: 7 }
+  - { year: 2019, n: 23 }
+  - { year: 2020, n: 46 }
+  - { year: 2021, n: 69 }
+  - { year: 2022, n: 94 }
+  - { year: 2023, n: 105 }
+  - { year: 2024, n: 85 }
+  - { year: 2025, n: 167 }
+  - { year: 2026, n: 128, partial: true }
+# per paper, keyed by the anchor id on the publications page: count and Scholar "cites" id(s)
+papers:
+  hammerer-2018: { n: 205, cites: "10314675660897663195" }
+  kosciessa-grandy-2020: { n: 151, cites: "9816627135478334100,3479554300251536539" }
+  kosciessa-2021: { n: 129, cites: "11689406328822286888,1715306853868216644" }
+  kosciessa-kloosterman-2020: { n: 129, cites: "16132665529510104311,17124023698089480492" }
+  mooraj-2025: { n: 46, cites: "16391705717627214826" }
+  kloosterman-2020: { n: 36, cites: "10678056794378611573,2773322501117890245" }
+  garrett-2022: { n: 13, cites: "2048104557375969147" }
+  kosciessa-2024: { n: 12, cites: "18301430118481600687" }
+  skowron-2025: { n: 10, cites: "5329022327541802426,18320015472200515704" }
+  cesnaite-2025: { n: 2, cites: "5222184862158459587" }

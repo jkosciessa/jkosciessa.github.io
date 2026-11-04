@@ -18,6 +18,7 @@ BOLD variability tracks changes in internal uncertainty levels during a latent i
 
 [Paper](https://doi.org/10.1093/cercor/bhaf219)
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.11.575180v1)
+{% assign c = site.data.scholar.papers["skowron-2025"] %}<a class="pub-cites" href="https://scholar.google.com/scholar?cites={{ c.cites }}" title="Papers citing this work (Google Scholar)">Cited by {{ c.n }}</a>
 {: .pub-links}
 
 Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nassar, M. R., Werkle-Bergner, M., Craik, F. I. M., Lindenberger, U., Mayr, U., Rajah, M. N., Raz, N., Nyberg, L., & Garrett, D. D. (2025). Toward a functional future for the cognitive neuroscience of human aging. Neuron, 113(1), 154-183. https://doi.org/10.1016/j.neuron.2024.12.008
@@ -27,6 +28,7 @@ A perspective on dominant methodologies in the cognitive neuroscience of human a
 {: .pub-summary}
 
 [Paper](https://authors.elsevier.com/sd/article/S0896-6273(24)00886-9)
+{% assign c = site.data.scholar.papers["mooraj-2025"] %}<a class="pub-cites" href="https://scholar.google.com/scholar?cites={{ c.cites }}" title="Papers citing this work (Google Scholar)">Cited by {{ c.n }}</a>
 {: .pub-links}
 
 **Kosciessa, J. Q.**, Mayr, U., Lindenberger, U. & Garrett, D. D. (2024) Broadscale dampening of uncertainty adjustment in the aging brain. Nat Commun 15, 10717. https://doi.org/10.1038/s41467-024-55416-2
@@ -44,6 +46,7 @@ Task uncertainty is tracked by an integrated neural response (EEG & fMRI-based) 
 [Data](https://doi.org/10.5281/zenodo.14264868)
 [Task](https://doi.org/10.5281/zenodo.14216065)
 [Bluesky](https://bsky.app/profile/juliankosciessa.bsky.social/post/3lf5udqrfpc2g)
+{% assign c = site.data.scholar.papers["kosciessa-2024"] %}<a class="pub-cites" href="https://scholar.google.com/scholar?cites={{ c.cites }}" title="Papers citing this work (Google Scholar)">Cited by {{ c.n }}</a>
 {: .pub-links}
 
 **Kosciessa, J. Q.**, Lindenberger, U., & Garrett, D. D. (2021). Thalamocortical excitability modulation guides human perception under uncertainty. Nature Communications, 12(1), 2430. doi:10.1038/s41467-021-22511-7
@@ -58,6 +61,7 @@ Higher-order thalamic activation increases when contextual uncertainty ambiguate
 [Code](https://git.mpib-berlin.mpg.de/LNDG/stateswitch)
 [Data](https://osf.io/ug4b8/)
 [Task](https://git.mpib-berlin.mpg.de/LNDG/multi-attribute-task)
+{% assign c = site.data.scholar.papers["kosciessa-2021"] %}<a class="pub-cites" href="https://scholar.google.com/scholar?cites={{ c.cites }}" title="Papers citing this work (Google Scholar)">Cited by {{ c.n }}</a>
 {: .pub-links}
 
 Kloosterman, N. A., **Kosciessa, J. Q.**, Lindenberger, U., Fahrenfort, J. J., & Garrett, D. D. (2020). Boosts in brain signal variability track liberal shifts in decision bias. Elife, 9. doi:10.7554/eLife.54201
@@ -67,6 +71,7 @@ The magnitude of adaptive shifts from conservative to liberal decision biases un
 {: .pub-summary}
 
 [Paper](https://elifesciences.org/articles/54201)
+{% assign c = site.data.scholar.papers["kloosterman-2020"] %}<a class="pub-cites" href="https://scholar.google.com/scholar?cites={{ c.cites }}" title="Papers citing this work (Google Scholar)">Cited by {{ c.n }}</a>
 {: .pub-links}
 
 **Kosciessa, J. Q.**, Kloosterman, N. A., & Garrett, D. D. (2020). Standard multiscale entropy reflects neural dynamics at mismatched temporal scales: What's signal irregularity got to do with it? PLoS Computational Biology, 16(5), e1007885. doi:10.1371/journal.pcbi.1007885
@@ -82,6 +87,7 @@ Highlights and exemplifies biases in prior research using an information-theoret
 [bioRxiv v3](https://www.biorxiv.org/content/10.1101/752808v3?versioned=true)
 [Code](https://git.mpib-berlin.mpg.de/LNDG/rhythms_entropy)
 [Data](https://osf.io/q3vxm/)
+{% assign c = site.data.scholar.papers["kosciessa-kloosterman-2020"] %}<a class="pub-cites" href="https://scholar.google.com/scholar?cites={{ c.cites }}" title="Papers citing this work (Google Scholar)">Cited by {{ c.n }}</a>
 {: .pub-links}
 
 **Kosciessa, J. Q.**, Grandy, T. H., Garrett, D. D., & Werkle-Bergner, M. (2020). Single-trial characterization of neural rhythms: Potential and challenges. NeuroImage, 206, 116331. doi:10.1016/j.neuroimage.2019.116331
@@ -96,6 +102,7 @@ Introduces a novel algorithm that separates neural rhythms from background activ
 [bioRxiv v2](https://www.biorxiv.org/content/10.1101/356089v2?versioned=true)
 [bioRxiv v3](https://www.biorxiv.org/content/10.1101/356089v3?versioned=true)
 [Code](https://github.com/jkosciessa/eBOSC_resources_NI2020)
+{% assign c = site.data.scholar.papers["kosciessa-grandy-2020"] %}<a class="pub-cites" href="https://scholar.google.com/scholar?cites={{ c.cites }}" title="Papers citing this work (Google Scholar)">Cited by {{ c.n }}</a>
 {: .pub-links}
 
 Hämmerer, D., Callaghan, M. F., Hopkins, A., **Kosciessa, J.**, Betts, M., Cardenas-Blanco, A., Kanowski, M., Weiskopf, N., Dayan, P., Dolan, R. J., & Düzel, E. (2018). Locus coeruleus integrity in old age is selectively related to memories linked with salient negative events. Proceedings of the National Academy of Sciences of the United States of America, 115, 2228-2233. doi:10.1073/pnas.1712268115
@@ -105,6 +112,7 @@ Quantitative imaging indicates structural reductions in brainstem locus coeruleu
 {: .pub-summary}
 
 [Paper](https://www.pnas.org/content/115/9/2228)
+{% assign c = site.data.scholar.papers["hammerer-2018"] %}<a class="pub-cites" href="https://scholar.google.com/scholar?cites={{ c.cites }}" title="Papers citing this work (Google Scholar)">Cited by {{ c.n }}</a>
 {: .pub-links}
 
 ## Preprints and conference papers
@@ -126,8 +134,10 @@ Cesnaite, E., Algermissen, J., Vinding, M. C., Vitale, A., Pascarella, A., Fisch
 {: .pub-links}
 
 Cesnaite, E., Vitale, A., Pascarella, A., Vinding, M. C., Algermissen, J., Fischer, N. L., Puoliväli, T., Gianelli, C., Marshall, C. R., Trübutschek, D., … **Kosciessa, J. Q.**, … Nilsonne, G., & Busch, N. A. (2025). The EEGManyPipelines dataset: Metascientific data on 168 independent analyses of a single EEG dataset. MetaArXiv.
+{: #cesnaite-2025 .pub-entry}
 
 [Preprint](https://osf.io/preprints/metaarxiv/c4xwg_v1)
+{% assign c = site.data.scholar.papers["cesnaite-2025"] %}<a class="pub-cites" href="https://scholar.google.com/scholar?cites={{ c.cites }}" title="Papers citing this work (Google Scholar)">Cited by {{ c.n }}</a>
 {: .pub-links}
 
 **Kosciessa, J. Q.**, Wimmers, M., Krijgsman, S., & Verhagen, L. (2025). Dissociable effects of uncertainty in perceptual and cognitive control. 8th Conference on Cognitive Computational Neuroscience ([CCN 2025](https://2025.ccneuro.org/)), Amsterdam, The Netherlands.
@@ -140,6 +150,7 @@ Garrett, D. D., Kloosterman, N. A., Epp, S., Chopurian, V., **Kosciessa, J. Q.**
 
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.05.490687v1)
 [tweet](https://x.com/Garrett_Neuro/status/1523617220923863041)
+{% assign c = site.data.scholar.papers["garrett-2022"] %}<a class="pub-cites" href="https://scholar.google.com/scholar?cites={{ c.cites }}" title="Papers citing this work (Google Scholar)">Cited by {{ c.n }}</a>
 {: .pub-links}
 
 ## Theses and other outputs

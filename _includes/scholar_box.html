@@ -1,0 +1,25 @@
+{% assign sch = site.data.scholar %}
+{% assign maxn = 0 %}{% for y in sch.by_year %}{% if y.n > maxn %}{% assign maxn = y.n %}{% endif %}{% endfor %}
+{% assign nbars = sch.by_year | size %}
+<div class="scholar-box">
+  <div class="sb-title">Citations <span>(Google Scholar)</span></div>
+  <div class="sb-stats">
+    <div><strong>{{ sch.citations }}</strong><span>citations</span></div>
+    <div><strong>{{ sch.h_index }}</strong><span>h-index</span></div>
+    <div><strong>{{ sch.i10_index }}</strong><span>i10-index</span></div>
+  </div>
+  <svg class="sb-chart" viewBox="0 -12 {{ nbars | times: 24 }} 108" role="img" aria-label="Citations per year: {% for y in sch.by_year %}{{ y.year }}: {{ y.n }}{% if y.partial %} (to date){% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}">
+    {% for y in sch.by_year %}
+      {% assign h = y.n | times: 70 | divided_by: maxn %}
+      {% assign x = forloop.index0 | times: 24 | plus: 4 %}
+      <g class="sb-bar{% if y.partial %} partial{% endif %}">
+        <title>{{ y.year }}: {{ y.n }} citations{% if y.partial %} (year to date){% endif %}</title>
+        <rect x="{{ x }}" y="{{ 78 | minus: h }}" width="16" height="{{ h }}" rx="2"></rect>
+        {% if y.n == maxn or forloop.last %}<text class="sb-val" x="{{ x | plus: 8 }}" y="{{ 74 | minus: h }}">{{ y.n }}</text>{% endif %}
+        {% if forloop.first or forloop.last or y.year == 2022 %}<text class="sb-year" x="{{ x | plus: 8 }}" y="92">{{ y.year }}</text>{% endif %}
+      </g>
+    {% endfor %}
+    <line x1="0" y1="78.5" x2="{{ nbars | times: 24 }}" y2="78.5" class="sb-axis"></line>
+  </svg>
+  <div class="sb-note">State: {{ sch.updated | date: "%-d %b %Y" }} · <a href="{{ sch.profile }}">profile</a></div>
+</div>

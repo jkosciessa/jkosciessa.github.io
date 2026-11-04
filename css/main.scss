@@ -228,3 +228,22 @@ details.ri > p.ri-media i { color: #9e1e2d; margin-right: 4px; }
 
 /* Tools: keep linked tool headings clear of the fixed navbar */
 .tool-card h3[id] { scroll-margin-top: 80px; }
+
+/* Publications: Google Scholar snapshot box and per-paper counts */
+.scholar-box { margin: 28px auto 0; max-width: 220px; text-align: left; border-top: 1px solid #e5e5e5; padding-top: 12px; }
+.sb-title { font-size: 14px; font-weight: 600; color: #333; margin-bottom: 8px; }
+.sb-title span { font-weight: 400; color: #888; }
+.sb-stats { display: flex; justify-content: space-between; margin-bottom: 10px; }
+.sb-stats div { text-align: center; }
+.sb-stats strong { display: block; font-size: 18px; font-weight: 600; color: #222; line-height: 1.1; }
+.sb-stats span { font-size: 11px; color: #777; }
+.sb-chart { display: block; width: 100%; height: auto; }
+.sb-bar rect { fill: #304866; }
+.sb-bar.partial rect { fill: #8a9bb0; }
+.sb-bar:hover rect { fill: #9e1e2d; }
+.sb-val { font-size: 9px; fill: #444; text-anchor: middle; }
+.sb-year { font-size: 9px; fill: #777; text-anchor: middle; }
+.sb-axis { stroke: #ccc; stroke-width: 1; }
+.sb-note { font-size: 11px; color: #888; margin-top: 4px; }
+.pub-links a.pub-cites { border-color: transparent; background: none; color: #777; padding: 1px 4px; }
+.pub-links a.pub-cites:hover { color: #337ab7; background: #eef4fa; border-color: #c9d6e3; }
