@@ -8,6 +8,29 @@ permalink: /publications/
 
 # Publications
 
+**Kosciessa, J. Q.**, Webb, T. D., Martin, E., Treeby, B., Butts Pauly, K., Verhagen, L., & Pichardo, S. (2026). Impact of acoustic property uncertainty on transcranial ultrasound simulation. bioRxiv. https://doi.org/10.64898/2026.10.30.763065
+
+[biorxiv](https://doi.org/10.64898/2026.10.30.763065)
+
+**Kosciessa, J. Q.**, Wimmers, M., Evans, C., Pedroso de Faria, J., Reichstein, S., Gómez Pérez, J., Grondelaers, L., Condorelli, R., & Verhagen, L. (2026). Dissecting thalamic uncertainty management with transcranial ultrasound stimulation. 9th Conference on Cognitive Computational Neuroscience (CCN 2026), New York City, USA.
+
+[paper](https://openreview.net/pdf?id=8v8K3ORKrw)
+
+Cesnaite, E., Algermissen, J., Vinding, M. C., Vitale, A., Pascarella, A., Fischer, N. L., Yang, Y.-F., Trübutschek, D., Gianelli, C., Marshall, C. R., … **Kosciessa, J. Q.**, … Nilsonne, G., & Busch, N. A. (2026). Many pipelines, one dataset: Analytic flexibility and its impact in EEG research. MetaArXiv. https://doi.org/10.31222/osf.io/wvx48_v2
+
+[preprint](https://doi.org/10.31222/osf.io/wvx48_v2)
+
+Skowron, A., **Kosciessa, J. Q.**, Lorenz, R. C., Hertwig, R., van den Bos, W., & Garrett, D. D. (2025). Neural variability in the default mode network compresses with increasing belief precision during Bayesian inference. Cerebral Cortex, 35(9). https://doi.org/10.1093/cercor/bhaf219
+
+[paper](https://doi.org/10.1093/cercor/bhaf219)
+[biorxiv](https://www.biorxiv.org/content/10.1101/2024.01.11.575180v1)
+
+Cesnaite, E., Vitale, A., Pascarella, A., Vinding, M. C., Algermissen, J., Fischer, N. L., Puoliväli, T., Gianelli, C., Marshall, C. R., Trübutschek, D., … **Kosciessa, J. Q.**, … Nilsonne, G., & Busch, N. A. (2025). The EEGManyPipelines dataset: Metascientific data on 168 independent analyses of a single EEG dataset. MetaArXiv.
+
+[preprint](https://osf.io/preprints/metaarxiv/c4xwg_v1)
+
+**Kosciessa, J. Q.**, Wimmers, M., Krijgsman, S., & Verhagen, L. (2025). Dissociable effects of uncertainty in perceptual and cognitive control. 8th Conference on Cognitive Computational Neuroscience (CCN 2025), Amsterdam, The Netherlands.
+
 Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nassar, M. R., Werkle-Bergner, M., Craik, F. I. M., Lindenberger, U., Mayr, U., Rajah, M. N., Raz, N., Nyberg, L., & Garrett, D. D. (2025). Toward a functional future for the cognitive neuroscience of human aging. Neuron, 113(1), 154-183. https://doi.org/10.1016/j.neuron.2024.12.008 
 
 [paper](https://authors.elsevier.com/sd/article/S0896-6273(24)00886-9)
@@ -25,16 +48,10 @@ Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nass
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2024-Kosciessa-StateSwitchAging.pdf)
 
 
-Skowron, A., **Kosciessa, J. Q.**, Lorenz, R., Hertwig, R., Bos, W. van den, & Garrett, D. D. (2024). Neural variability compresses with increasing belief precision during Bayesian inference. bioRxiv. https://doi.org/10.1101/2024.01.11.575180
-
-[biorxiv](https://www.biorxiv.org/content/10.1101/2024.01.11.575180v1)
-
-
 **Kosciessa, J. Q.** (2022). EEGmanypipelines contribution
 
 [Project](https://www.eegmanypipelines.org/)
 [Github](https://github.com/jkosciessa/eegmp)
-[Data](https://gin.g-node.org/juliankosciessa/eegmp_data)
 [Preproc](https://gin.g-node.org/juliankosciessa/eegmp_preproc)
 [Analysis](https://gin.g-node.org/juliankosciessa/eegmp_analysis)
 [DataCat](https://jkosciessa.github.io/datalad_cat_test/)
