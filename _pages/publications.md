@@ -12,7 +12,7 @@ Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nass
 
 [paper](https://authors.elsevier.com/sd/article/S0896-6273(24)00886-9)
 
-**Kosciessa, J. Q.**, Mayr, U., Lindenberger, U. & Garrett, D. D. (2024) Broadscale dampening of uncertainty adjustment in the aging brain. Nat Commun 15, 10717. https://doi.org:10.1038/s41467-024-55416-2
+**Kosciessa, J. Q.**, Mayr, U., Lindenberger, U. & Garrett, D. D. (2024) Broadscale dampening of uncertainty adjustment in the aging brain. Nat Commun 15, 10717. https://doi.org/10.1038/s41467-024-55416-2
 
 [paper](https://www.nature.com/articles/s41467-024-55416-2)
 [peerreview](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-024-55416-2/MediaObjects/41467_2024_55416_MOESM2_ESM.pdf)
@@ -25,7 +25,7 @@ Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nass
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2024-Kosciessa-StateSwitchAging.pdf)
 
 
-Skowron, A., **Kosciessa, J. Q.**, Lorenz, R., Hertwig, R., Bos, W. van den, & Garrett, D. D. (2024). Neural variability compresses with increasing belief precision during Bayesian inference. bioRxiv. https://doi.org:10.1101/2024.01.11.575180
+Skowron, A., **Kosciessa, J. Q.**, Lorenz, R., Hertwig, R., Bos, W. van den, & Garrett, D. D. (2024). Neural variability compresses with increasing belief precision during Bayesian inference. bioRxiv. https://doi.org/10.1101/2024.01.11.575180
 
 [biorxiv](https://www.biorxiv.org/content/10.1101/2024.01.11.575180v1)
 
@@ -82,7 +82,7 @@ Kloosterman, N. A., **Kosciessa, J. Q.**, Lindenberger, U., Fahrenfort, J. J., &
 [Code](https://github.com/jkosciessa/eBOSC_resources_NI2020)
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2019_NeuroImage_eBOSC.pdf)
 
-Hämmerer, D., Callaghan, M. F., Hopkins, A., **Kosciessa, J.**, Betts, M., Cardenas-Blanco, A., Kanowski, M., Weiskopf, N., Dayan, P., Dolan, R. J., & Düzel, E. (2018). Locus coeruleus integrity in old age is selectively related to memories linked with salient negative events.Proceedings of the National Academy of Sciences of the United States of America, 115, 2228-2233. doi:10.1073/pnas.1712268115
+Hämmerer, D., Callaghan, M. F., Hopkins, A., **Kosciessa, J.**, Betts, M., Cardenas-Blanco, A., Kanowski, M., Weiskopf, N., Dayan, P., Dolan, R. J., & Düzel, E. (2018). Locus coeruleus integrity in old age is selectively related to memories linked with salient negative events. Proceedings of the National Academy of Sciences of the United States of America, 115, 2228-2233. doi:10.1073/pnas.1712268115
 
 [Article](https://www.pnas.org/content/115/9/2228)
 

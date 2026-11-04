@@ -19,14 +19,14 @@ Projects I have worked on produced multiple tools that I hope are useful for the
 
 <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/rhythm.png" style="width: 100%">
 
-Rhythmic patterns in neural time series provide a window on the neural dynamics that shape perception, cognition and action, and therefore are a major signal of interest in the cognitive, computational and systems neurosciences. However, typical descriptions of rhythmicity lack detail, e.g., failing to indicate when and for how long rhythms occur. Such lack of detail becomes problematic in the face of non-stationarities in rhythmic engagement, i.e., when the presence of rhythms varies over time. To overcome resulting pitfalls, there is a need for methods that identify the occurence of non-stationary rhythmic periods in a systematic manner.
+Rhythmic patterns in neural time series provide a window on the neural dynamics that shape perception, cognition and action, and therefore are a major signal of interest in the cognitive, computational and systems neurosciences. However, typical descriptions of rhythmicity lack detail, e.g., failing to indicate when and for how long rhythms occur. Such lack of detail becomes problematic in the face of non-stationarities in rhythmic engagement, i.e., when the presence of rhythms varies over time. To overcome resulting pitfalls, there is a need for methods that identify the occurrence of non-stationary rhythmic periods in a systematic manner.
 
 eBOSC (extended Better OSCillation detection) is a toolbox (or a set of scripts) that can be used to detect the occurrence of rhythms in continuous signals (i.e., at the single trial level). It uses a static aperiodic ‘background’ spectrum as the basis to define a ‘power threshold’ that continuous signals have to exceed in order to qualify as ‘rhythmic’. As such, it leverages the observation that stochastic components of the frequency spectrum of neural data are characterized by a '1/f'-like power spectrum. An additional ‘duration threshold’ can be set up in advance, or rhythmic episodes can be filtered by duration following detection to ensure that detected rhythmic episodes have a rather sustained vs. transient appearance. The main goal of the code is to produce a list of rhythmic episodes.
 
 The MATLAB code is provided [here](https://github.com/jkosciessa/eBOSC).<br>
 A wiki is provided [here](https://github.com/jkosciessa/eBOSC/wiki).<br>
 
-A python version is available provided [on GitHub](https://github.com/jkosciessa/eBOSC_py) and [on pypi](https://pypi.org/project/ebosc/). [![DOI](https://zenodo.org/badge/342610969.svg)](https://zenodo.org/badge/latestdoi/342610969)
+A Python version is available [on GitHub](https://github.com/jkosciessa/eBOSC_py) and [on pypi](https://pypi.org/project/ebosc/). [![DOI](https://zenodo.org/badge/342610969.svg)](https://zenodo.org/badge/latestdoi/342610969)
 
 <br />
 
@@ -35,9 +35,9 @@ A python version is available provided [on GitHub](https://github.com/jkosciessa
 
 Chetverikov, A.+, **Kosciessa, J. Q.**+, Cornelissen, M., van der Zee, K., & Verhagen, L. (2024). PRESTUS (0.3.0). Zenodo. https://doi.org/10.5281/zenodo.15095861
 
-<img class="img-responsive" src="https://github.com/Donders-Institute/PRESTUS/blob/master/documentation/img/figure_6.png?raw=true" style="width: 100%">
+<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/prestus_overview.png" style="width: 100%">
 
-PRESTUS (PREprocessing & Simulations for Transcranial Ultrasound Stimulation) is an open-source MATLAB toolbox that aims to streamline imaging-informed simulations of Transcanial Ultrasound Stimulation (TUS): from the segmentation of T1-weighted MRI head scans and mapping of medium tissue properties (possibly informed for skull via (pseudo-)CT images) in a simulation grid, to the execution of acoustic and thermal simulations using the widely adopted k-Wave engine. High-performance computing (HPC) support via SLURM and CentOS enables efficient parallelization, and large-scale analyses. Output 3D NifTI images are automatically mapped to a standard template (MNI) space to facilitate group reporting.
+PRESTUS (PREprocessing & Simulations for Transcranial Ultrasound Stimulation) is an open-source MATLAB toolbox that aims to streamline imaging-informed simulations of Transcranial Ultrasound Stimulation (TUS): from the segmentation of T1-weighted MRI head scans and mapping of medium tissue properties (possibly informed for skull via (pseudo-)CT images) in a simulation grid, to the execution of acoustic and thermal simulations using the widely adopted k-Wave engine. High-performance computing (HPC) support via SLURM and CentOS enables efficient parallelization, and large-scale analyses. Output 3D NifTI images are automatically mapped to a standard template (MNI) space to facilitate group reporting.
 
 The MATLAB code is provided [here](https://github.com/Donders-Institute/PRESTUS).<br>
 An overview poster is provided [here]({{ site.url }}{{ site.baseurl }}/downloads/2025-FUN25-PRESTUS.pdf).<br>
@@ -59,11 +59,11 @@ A short tutorial is provided [here](https://www.fieldtriptoolbox.org/example/ent
 
 ### Multi-attribute attention task (MAAT)
 
-**Kosciessa, J. Q.**, Lindenberger, U. & Garrett, D. D. (2020). Thalamocortical excitability adjustments guide human perception under uncertainty. Manuscript submitted for publication.
+**Kosciessa, J. Q.**, Lindenberger, U., & Garrett, D. D. (2021). Thalamocortical excitability modulation guides human perception under uncertainty. Nature Communications, 12(1), 2430. doi:10.1038/s41467-021-22511-7
 
 <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/MAAT.gif" style="width: 100%">
 
-Multi-attribute-task used in Kosciessa, J. Q., Lindenberger, U., & Garrett, D. D. (2020). Thalamocortical excitability adjustments guide human perception under uncertainty.
+Multi-attribute task used in Kosciessa, J. Q., Lindenberger, U., & Garrett, D. D. (2021). Thalamocortical excitability modulation guides human perception under uncertainty.
 
 The code is provided [here](https://git.mpib-berlin.mpg.de/LNDG/multi-attribute-task).
 

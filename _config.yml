@@ -9,9 +9,9 @@
 title: Julian Kosciessa
 email: julian.kosciessa@donders.ru.nl
 description: > # this means to ignore newlines until "baseurl:"
-  This a professional website for Cognitive Neuroscientist Julian Kosciessa.
+  This is a professional website for Cognitive Neuroscientist Julian Kosciessa.
 baseurl: ""
-url: ""
+url: "https://jkosciessa.github.io"
 
 include:
   - .htaccess
