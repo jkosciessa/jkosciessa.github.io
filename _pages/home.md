@@ -22,7 +22,9 @@ I study how brain dynamics keep perception and cognition adaptive in uncertain a
 
 <h2>About</h2>
 
-I am a cognitive computational neuroscientist and Research Fellow at the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/) at Radboud University in Nijmegen, the Netherlands. I lead the [Cognitive Neurodynamics](https://www.ru.nl/en/departments/donders-centre-for-cognition/cognitive-neurodynamics) group at the Donders Centre for Cognition, with close associations to the [Cognitive Neuromodulation](https://www.verhagenlab.com/) group. Prior research was performed at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) within the [Lifespan Neural Dynamics Group](https://www.mps-ucl-centre.mpg.de/en/about-the-centre/research-groups/lifespan-neural-dynamics-group). Prior to my doctoral studies in the [IMPRS Comp2Psych program](https://www.mps-ucl-centre.mpg.de/comp2psych), I completed an M.Sc. in the [Berlin School of Mind and Brain program](http://www.mind-and-brain.de/home/) at Humboldt Universität zu Berlin.
+I am a cognitive computational neuroscientist and Research Fellow at the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/) at Radboud University in Nijmegen, the Netherlands. I lead the [Cognitive Neurodynamics](https://www.ru.nl/en/departments/donders-centre-for-cognition/cognitive-neurodynamics) group at the Donders Centre for Cognition, with close associations to the [Cognitive Neuromodulation](https://www.verhagenlab.com/) group.
+
+Prior research was performed at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) within the [Lifespan Neural Dynamics Group](https://www.mps-ucl-centre.mpg.de/en/about-the-centre/research-groups/lifespan-neural-dynamics-group). Prior to my doctoral studies in the [IMPRS Comp2Psych program](https://www.mps-ucl-centre.mpg.de/comp2psych), I completed an M.Sc. in the [Berlin School of Mind and Brain program](http://www.mind-and-brain.de/home/) at Humboldt Universität zu Berlin.
 
 <h2>Research Interests</h2>
 
