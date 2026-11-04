@@ -31,7 +31,7 @@ PRESTUS is an open-source MATLAB toolbox that aims to streamline imaging-informe
 [Course: TUS Foundations (NeuroTechEU)](https://nteucampus.org/course/transcranial-ultrasonic-stimulation-tus-foundations)
 {: .pub-links}
 
-<i class="fa-solid fa-award" aria-hidden="true"></i> This software was honored with the inaugural [Donders Open Research Output Award](https://www.ru.nl/en/donders-institute/news/donders-day-2026-science-community-and-recognition) (2026).
+<i class="fa-solid fa-award" aria-hidden="true"></i> This software was honored with the inaugural [Donders Open Research Output Award](https://www.ru.nl/en/donders-institute/news/donders-day-2026-science-community-and-recognition) (2026). The PRESTUS [poster]({{ site.url }}{{ site.baseurl }}/downloads/2025-FUN25-PRESTUS.pdf) received a Gold Poster Award at the Focused Ultrasound Neuromodulation Conference (FUN25).
 {: .tool-award}
 
 </div>

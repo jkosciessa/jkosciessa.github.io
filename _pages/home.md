@@ -15,6 +15,7 @@ permalink: /
 I study how brain dynamics keep perception and cognition adaptive in uncertain and changing environments. My research tests how thalamic circuits adjust the precision of cortical processing, combining experimental tasks and behavioral modeling with multimodal neuroimaging (EEG, fMRI) and image-guided transcranial ultrasound stimulation (TUS).
 
 <a class="btn btn-default btn-sm btn-cv" href="{{ site.url }}{{ site.baseurl }}/downloads/cv_kosciessa.pdf"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i>Download CV (PDF)</a>
+<a class="btn btn-default btn-sm btn-cv" href="https://www.ru.nl/en/departments/donders-centre-for-cognition/cognitive-neurodynamics"><i class="fa-solid fa-flask" aria-hidden="true"></i>Lab website</a>
 
 </div>
 </div>
@@ -23,21 +24,19 @@ I study how brain dynamics keep perception and cognition adaptive in uncertain a
 
 I am a cognitive computational neuroscientist and Research Fellow at the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/) at Radboud University in Nijmegen, the Netherlands. I lead the [Cognitive Neurodynamics](https://www.ru.nl/en/departments/donders-centre-for-cognition/cognitive-neurodynamics) group at the Donders Centre for Cognition, with close associations to the [Cognitive Neuromodulation](https://www.verhagenlab.com/) group. Prior research was performed at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) within the [Lifespan Neural Dynamics Group](https://www.mps-ucl-centre.mpg.de/en/about-the-centre/research-groups/lifespan-neural-dynamics-group). Prior to my doctoral studies in the [IMPRS Comp2Psych program](https://www.mps-ucl-centre.mpg.de/comp2psych), I completed an M.Sc. in the [Berlin School of Mind and Brain program](http://www.mind-and-brain.de/home/) at Humboldt Universität zu Berlin.
 
-I have a broad interest in Cognitive Psychology, Computational Neuroscience, Machine Learning, and Computational Biology and employ an array of techniques, including *computational modeling of behavior*, electroencephalography (*EEG*), structural and functional magnetic resonance imaging (*s/fMRI*), *pupillometry*, *transcranial ultrasound stimulation (TUS)* as well as *numerical simulations*.
-
 <h2>Research Interests</h2>
 
 <details class="ri" markdown="1">
 <summary markdown="span">General</summary>
 
-Brains are not static input-output machines, but dynamic systems that adapt perception, cognition, and action to changing demands. My research bridges cognitive, computational, and systems neuroscience to uncover the neural mechanisms underlying this flexibility. I investigate how to measure, functionally characterize, and modulate neural dynamics, from synchronous oscillations to stochastic "noise", as substrates of cognition across the adult lifespan.
+Brains are not static input-output machines, but dynamic systems that adapt perception, cognition, and action to changing demands. My research bridges cognitive, computational, and systems neuroscience to uncover the neural mechanisms underlying this flexibility. I investigate how to measure, functionally characterize, and modulate neural dynamics, from synchronous oscillations to stochastic "noise", as substrates of cognition across the adult lifespan. My methods include computational modeling of behavior, electroencephalography (EEG), structural and functional magnetic resonance imaging (s/fMRI), pupillometry, transcranial ultrasound stimulation (TUS), and numerical simulations.
 
 </details>
 
 <details class="ri" markdown="1">
 <summary markdown="span">Flexible perceptual and cognitive control under uncertainty</summary>
 
-Humans frequently face environments with varying degrees of uncertainty about what should receive priority in processing. Combining EEG and fMRI during a multi-attribute uncertainty task, my work identified neural "noise" as a characteristic of flexible decisions and proposed cortical excitability adjustments as a candidate mechanism (Kosciessa et al., 2021). This uncertainty response is dampened in older adults, and its maintenance is associated with higher cognitive flexibility (Kosciessa et al., 2024).
+Humans frequently face environments with varying degrees of uncertainty about what should receive priority in processing. Combining EEG and fMRI during a multi-attribute uncertainty task, my work identified neural "noise" as a characteristic of flexible decisions and proposed cortical excitability adjustments as a candidate mechanism ([Kosciessa et al., 2021]({{ site.url }}{{ site.baseurl }}/publications/#kosciessa-2021)). This uncertainty response is dampened in older adults, and its maintenance is associated with higher cognitive flexibility ([Kosciessa et al., 2024]({{ site.url }}{{ site.baseurl }}/publications/#kosciessa-2024)).
 
 </details>
 
@@ -51,7 +50,7 @@ Rhythms are a key signature of neural information coordination, but they are not
 <details class="ri" markdown="1">
 <summary markdown="span">Thalamic influences on cortical dynamics and cognition</summary>
 
-The deep brain thalamus is ideally suited to dynamically regulate specific computations in cortex. Combining the high temporal resolution of EEG with the high spatial resolution of fMRI, my work linked thalamic engagement to dynamic cortical states during perceptual decisions under uncertainty (Kosciessa et al., 2021, 2024).
+The deep brain thalamus is ideally suited to dynamically regulate specific computations in cortex. Combining the high temporal resolution of EEG with the high spatial resolution of fMRI, my work linked thalamic engagement to dynamic cortical states during perceptual decisions under uncertainty (Kosciessa et al., [2021]({{ site.url }}{{ site.baseurl }}/publications/#kosciessa-2021), [2024]({{ site.url }}{{ site.baseurl }}/publications/#kosciessa-2024)).
 
 </details>
 
@@ -65,7 +64,24 @@ The thalamus' small size and deep location have long limited its investigation, 
 <details class="ri" markdown="1">
 <summary markdown="span">Open and reproducible science</summary>
 
-I treat code, data, and materials as primary scientific outputs. I publish workflows that link version-controlled code and data, develop open-source [tools]({{ site.url }}{{ site.baseurl }}/tools), and teach research data management, including as a ReproNim/INCF fellow.
+I treat code, data, and materials as primary scientific outputs. I publish workflows that link version-controlled code and data, develop open-source [tools]({{ site.url }}{{ site.baseurl }}/tools), and teach research data management, including as a ReproNim/INCF fellow (2022).
+
+</details>
+
+<h2>Awards and Fellowships</h2>
+
+<details class="ri" markdown="1">
+<summary markdown="span">Selected awards and fellowships</summary>
+
+- 2026 · Donders Open Research Output Award (inaugural), for open TUS research software (PRESTUS)
+- 2025 · Gold Poster Award, Focused Ultrasound Neuromodulation Conference (FUN25), for PRESTUS
+- 2022 · Otto Hahn Medal of the Max Planck Society
+- 2022 · Radboud Excellence Initiative Fellowship
+- 2022 · ReproNim/INCF Fellowship
+- 2021 · DGPA Brain Products Young Scientist Award
+- 2021 · Merit Abstract Award, OHBM Annual Meeting
+- 2018 · IBRO Poster Award, Interpreting BOLD
+- 2016–2020 · IMPRS COMP2PSYCH Fellowship, Max Planck UCL Centre for Computational Psychiatry and Ageing Research
 
 </details>
 

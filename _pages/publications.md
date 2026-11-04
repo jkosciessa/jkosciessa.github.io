@@ -11,17 +11,20 @@ permalink: /publications/
 ## Journal articles
 
 Skowron, A., **Kosciessa, J. Q.**, Lorenz, R. C., Hertwig, R., van den Bos, W., & Garrett, D. D. (2025). Neural variability in the default mode network compresses with increasing belief precision during Bayesian inference. Cerebral Cortex, 35(9). https://doi.org/10.1093/cercor/bhaf219
+{: #skowron-2025 .pub-entry}
 
 [Paper](https://doi.org/10.1093/cercor/bhaf219)
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.11.575180v1)
 {: .pub-links}
 
 Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nassar, M. R., Werkle-Bergner, M., Craik, F. I. M., Lindenberger, U., Mayr, U., Rajah, M. N., Raz, N., Nyberg, L., & Garrett, D. D. (2025). Toward a functional future for the cognitive neuroscience of human aging. Neuron, 113(1), 154-183. https://doi.org/10.1016/j.neuron.2024.12.008
+{: #mooraj-2025 .pub-entry}
 
 [Paper](https://authors.elsevier.com/sd/article/S0896-6273(24)00886-9)
 {: .pub-links}
 
 **Kosciessa, J. Q.**, Mayr, U., Lindenberger, U. & Garrett, D. D. (2024) Broadscale dampening of uncertainty adjustment in the aging brain. Nat Commun 15, 10717. https://doi.org/10.1038/s41467-024-55416-2
+{: #kosciessa-2024 .pub-entry}
 
 [Paper](https://www.nature.com/articles/s41467-024-55416-2)
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2024-Kosciessa-StateSwitchAging.pdf)
@@ -35,6 +38,7 @@ Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nass
 {: .pub-links}
 
 **Kosciessa, J. Q.**, Lindenberger, U., & Garrett, D. D. (2021). Thalamocortical excitability modulation guides human perception under uncertainty. Nature Communications, 12(1), 2430. doi:10.1038/s41467-021-22511-7
+{: #kosciessa-2021 .pub-entry}
 
 [Paper](https://www.nature.com/articles/s41467-021-22511-7)
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2021_NatComms_StateSwitch.pdf)
