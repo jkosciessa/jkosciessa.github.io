@@ -23,7 +23,7 @@ Open-source software and experimental materials from my projects, shared so that
 
 **Kosciessa, J. Q.**, Chetverikov, A., Cornelissen, M., Carpino, E., van der Zee, K., Wimmers, M., Adelhoefer, N., Meijer, S., & Verhagen, L. (2026). PRESTUS (Version v0.6.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.20392907
 
-<i class="fa-solid fa-award" aria-hidden="true"></i> This software was honored with the inaugural [Donders Open Research Output Award](https://www.ru.nl/en/donders-institute/news/donders-day-2026-science-community-and-recognition) (2026) for maintaining open research software for TUS.
+<i class="fa-solid fa-award" aria-hidden="true"></i> This software was honored with the inaugural [Donders Open Research Output Award](https://www.ru.nl/en/donders-institute/news/donders-day-2026-science-community-and-recognition) (2026) for open research software for TUS.
 {: .tool-award}
 
 PRESTUS is an open-source MATLAB toolbox that aims to streamline imaging-informed simulations of Transcranial Ultrasound Stimulation (TUS): from the segmentation of T1-weighted MRI head scans and mapping of medium tissue properties (possibly informed for skull via (pseudo-)CT images) in a simulation grid, to the execution of acoustic and thermal simulations using the widely adopted k-Wave engine. High-performance computing (HPC) support via SLURM enables efficient parallelization and large-scale analyses. Output 3D NIfTI images are automatically mapped to a standard template (MNI) space to facilitate group reporting.
