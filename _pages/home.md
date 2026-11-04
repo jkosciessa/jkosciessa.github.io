@@ -24,7 +24,7 @@ I study how brain dynamics keep perception and cognition adaptive in uncertain a
 
 I am a cognitive computational neuroscientist and Research Fellow at the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/) at Radboud University in Nijmegen, the Netherlands. I lead the [Cognitive Neurodynamics](https://www.ru.nl/en/departments/donders-centre-for-cognition/cognitive-neurodynamics) group at the Donders Centre for Cognition, with close associations to the [Cognitive Neuromodulation](https://www.verhagenlab.com/) group.
 
-Before moving to Nijmegen, I completed my PhD in the [IMPRS COMP2PSYCH](https://www.mps-ucl-centre.mpg.de/comp2psych) program and worked as a postdoc in the [Lifespan Neural Dynamics Group](https://www.mps-ucl-centre.mpg.de/en/about-the-centre/research-groups/lifespan-neural-dynamics-group) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin. I earned an M.Sc. in the [Berlin School of Mind and Brain](http://www.mind-and-brain.de/home/) at Humboldt-Universität zu Berlin and a B.Sc. in Psychology at [Freie Universität Berlin](https://www.fu-berlin.de/en/).
+Before moving to Nijmegen, I completed my PhD in the [IMPRS COMP2PSYCH](https://www.mps-ucl-centre.mpg.de/comp2psych) program of the [Max Planck UCL Centre for Computational Psychiatry and Ageing Research](https://www.mps-ucl-centre.mpg.de/en) and worked as a postdoc in the [Lifespan Neural Dynamics Group](https://www.mps-ucl-centre.mpg.de/en/about-the-centre/research-groups/lifespan-neural-dynamics-group) at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin. I earned an M.Sc. in the [Berlin School of Mind and Brain](http://www.mind-and-brain.de/home/) at Humboldt-Universität zu Berlin and a B.Sc. in Psychology at [Freie Universität Berlin](https://www.fu-berlin.de/en/).
 
 <h2>Research Interests</h2>
 
@@ -101,7 +101,7 @@ Beyond my theoretical interests, I aim to improve the reproducibility and data m
 - 2021 · [DGPA Brain Products Young Scientist Award](https://pressrelease.brainproducts.com/dgpa21/)
 - 2021 · Merit Abstract Award, OHBM Annual Meeting
 - 2018 · IBRO Poster Award, Interpreting BOLD
-- 2016–2020 · [IMPRS COMP2PSYCH](https://www.mps-ucl-centre.mpg.de/comp2psych) Fellowship, Max Planck UCL Centre for Computational Psychiatry and Ageing Research
+- 2016–2020 · [IMPRS COMP2PSYCH](https://www.mps-ucl-centre.mpg.de/comp2psych) Fellowship
 
 </details>
 
