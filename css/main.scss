@@ -158,3 +158,12 @@ firstp {
   .navbar-nav > li.nav-sep { margin-left: clamp(2px, 0.4vw, 6px); margin-right: clamp(2px, 0.4vw, 6px); }
 }
 .tool-award { margin-top: 4px; }
+
+/* Home: collapsible research interests */
+details.ri { border-top: 1px solid #e5e5e5; padding: 2px 0; }
+details.ri:last-of-type { border-bottom: 1px solid #e5e5e5; }
+details.ri > summary { cursor: pointer; padding: 10px 0; font-weight: 600; font-size: 17px; list-style: none; }
+details.ri > summary::-webkit-details-marker { display: none; }
+details.ri > summary::before { content: "\25B8"; display: inline-block; width: 1.2em; color: #9e1e2d; transition: transform .15s; }
+details.ri[open] > summary::before { transform: rotate(90deg); }
+details.ri > p { margin: 0 0 14px 1.2em; }
