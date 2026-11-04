@@ -24,6 +24,10 @@ I study how brain dynamics keep perception and cognition adaptive in uncertain a
 
 I am a cognitive computational neuroscientist and Research Fellow at the [Donders Institute for Brain, Cognition and Behaviour](https://www.ru.nl/donders/) at Radboud University in Nijmegen, the Netherlands. I lead the [Cognitive Neurodynamics](https://www.ru.nl/en/departments/donders-centre-for-cognition/cognitive-neurodynamics) group at the Donders Centre for Cognition, with close associations to the [Cognitive Neuromodulation](https://www.verhagenlab.com/) group. Prior research was performed at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) within the [Lifespan Neural Dynamics Group](https://www.mps-ucl-centre.mpg.de/en/about-the-centre/research-groups/lifespan-neural-dynamics-group). Prior to my doctoral studies in the [IMPRS Comp2Psych program](https://www.mps-ucl-centre.mpg.de/comp2psych), I completed an M.Sc. in the [Berlin School of Mind and Brain program](http://www.mind-and-brain.de/home/) at Humboldt Universität zu Berlin.
 
+{::nomarkdown}
+{% include research_map.html %}
+{:/}
+
 <h2>Research Interests</h2>
 
 <details class="ri" markdown="1">
@@ -71,10 +75,10 @@ I treat code, data, and materials as primary scientific outputs. I publish workf
 <details class="ri section-toggle" markdown="1">
 <summary markdown="span">Awards and fellowships</summary>
 
-- 2026 · [Donders Open Research Output Award](https://www.ru.nl/en/donders-institute/news/donders-day-2026-science-community-and-recognition) (inaugural), for open TUS research software (PRESTUS)
+- 2026 · [Donders Open Research Output Award](https://www.ru.nl/en/donders-institute/news/donders-day-2026-science-community-and-recognition) (inaugural)
 - 2025 · Gold Poster Award, Focused Ultrasound Neuromodulation Conference (FUN25)
 - 2022 · [Otto Hahn Medal](https://www.mpib-berlin.mpg.de/award/julian-kosciessa-was-awarded-the-otto-hahn-medal-2022) of the Max Planck Society
-- 2022 · Radboud Excellence Initiative Fellowship
+- 2022 · [Radboud Excellence Initiative Fellowship](https://www.ru.nl/en/staff/researchers/support-and-development/radboud-excellence-initiative)
 - 2022 · [ReproNim/INCF Fellowship](https://repronim.org/fellowship/)
 - 2021 · [DGPA Brain Products Young Scientist Award](https://pressrelease.brainproducts.com/dgpa21/)
 - 2021 · Merit Abstract Award, OHBM Annual Meeting

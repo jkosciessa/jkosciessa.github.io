@@ -162,7 +162,7 @@ firstp {
 /* Home: collapsible research interests */
 details.ri { border-top: 1px solid #e5e5e5; padding: 2px 0; }
 details.ri:last-of-type { border-bottom: 1px solid #e5e5e5; }
-details.ri > summary { cursor: pointer; padding: 10px 0; font-weight: 600; font-size: 17px; list-style: none; }
+details.ri > summary { cursor: pointer; padding: 10px 0; font-weight: 500; font-size: 17px; list-style: none; }
 details.ri > summary::-webkit-details-marker { display: none; }
 details.ri > summary::before { content: "\25B8"; display: inline-block; width: 1.2em; color: #9e1e2d; transition: transform .15s; }
 details.ri[open] > summary::before { transform: rotate(90deg); }
@@ -183,3 +183,28 @@ details.ri > ul li { margin-bottom: 4px; }
 details.ri.section-toggle { margin-top: 28px; border-top: 1px solid #e5e5e5; }
 details.ri.section-toggle > summary { font-size: 22px; font-weight: 500; }
 #homeid h2 { font-size: 26px; }
+
+/* Home: research path map */
+.research-map { margin: 18px 0 8px; }
+.research-map .rm-caption { font-size: 14px; color: #666; margin-bottom: 6px; }
+.rm-stage { position: relative; }
+.rm-stage svg { display: block; width: 100%; height: auto; }
+.rm-land { fill: #e9e7e2; }
+.rm-arc { fill: none; stroke: #9e1e2d; stroke-width: 2; stroke-linecap: round; opacity: .85; }
+.rm-marker { cursor: pointer; outline: none; }
+.rm-marker .rm-hit { fill: transparent; }
+.rm-marker .rm-dot { fill: #304866; stroke: #fff; stroke-width: 2; transition: r .3s, fill .3s; }
+.rm-marker.active .rm-dot { fill: #9e1e2d; r: 8; }
+.rm-marker text { font-size: 13px; fill: #333; paint-order: stroke; stroke: #fff; stroke-width: 3px; }
+.rm-marker.active text { font-weight: 600; }
+.rm-marker:focus-visible .rm-dot { stroke: #333; }
+.rm-tip { position: absolute; max-width: 280px; background: #fff; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,.12); padding: 8px 10px; font-size: 12px; line-height: 1.4; pointer-events: none; z-index: 5; }
+.rm-tip div { margin-top: 4px; }
+.rm-controls { display: flex; justify-content: space-between; align-items: center; margin: 6px 0; font-size: 13px; color: #555; }
+.rm-replay { border: 1px solid #c9d6e3; border-radius: 12px; background: #fff; padding: 1px 12px; font-size: 12px; color: #337ab7; cursor: pointer; }
+.rm-steps { list-style: none; padding: 0; margin: 4px 0 0; font-size: 13px; color: #777; }
+.rm-steps li { padding: 3px 6px; border-radius: 3px; cursor: pointer; }
+.rm-steps li.done { color: #555; }
+.rm-steps li.active { color: #222; background: #fbf6ee; }
+.rm-steps .rm-years { display: inline-block; min-width: 76px; font-variant-numeric: tabular-nums; }
+.rm-steps .rm-city { font-weight: 600; }

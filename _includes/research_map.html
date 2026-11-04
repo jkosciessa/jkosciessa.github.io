@@ -1,0 +1,140 @@
+<figure id="research-map" class="research-map">
+  <figcaption class="rm-caption">Where I have studied and worked</figcaption>
+  <div class="rm-stage">
+    <svg viewBox="0 0 960 380" role="img" aria-label="Map of study and research locations: Berlin, Singapore, London and Nijmegen, connected in chronological order. The list below gives the same information."></svg>
+    <div class="rm-tip" role="tooltip" hidden></div>
+  </div>
+  <div class="rm-controls">
+    <span class="rm-now" aria-live="polite"></span>
+    <button type="button" class="rm-replay">Replay</button>
+  </div>
+  <ol class="rm-steps">
+    <li data-place="berlin"><span class="rm-years">2011–2014</span> <span class="rm-city">Berlin</span> · B.Sc. Psychology, Freie Universität Berlin; research assistant, Max Planck Institute for Human Development</li>
+    <li data-place="singapore"><span class="rm-years">2013–2014</span> <span class="rm-city">Singapore</span> · Exchange semesters, National University of Singapore; research intern, Duke-NUS Medical School</li>
+    <li data-place="berlin"><span class="rm-years">2014–2016</span> <span class="rm-city">Berlin</span> · M.Sc. Mind &amp; Brain, Humboldt-Universität zu Berlin; research assistant and intern, Max Planck Institute for Human Development</li>
+    <li data-place="london"><span class="rm-years">2015–2016</span> <span class="rm-city">London</span> · Erasmus exchange, UCL Institute of Neurology; research intern, UCL Institute of Cognitive Neuroscience</li>
+    <li data-place="berlin"><span class="rm-years">2016–2022</span> <span class="rm-city">Berlin</span> · PhD (IMPRS COMP2PSYCH; Dr. rer. nat., Humboldt-Universität, 2020) and postdoc, Max Planck Institute for Human Development</li>
+    <li data-place="nijmegen"><span class="rm-years">2022–</span> <span class="rm-city">Nijmegen</span> · Radboud Excellence Fellow and Research Fellow, Donders Institute, Radboud University</li>
+  </ol>
+</figure>
+
+<script src="{{ site.baseurl }}/js/vendor/d3-array.min.js" defer></script>
+<script src="{{ site.baseurl }}/js/vendor/d3-geo.min.js" defer></script>
+<script src="{{ site.baseurl }}/js/vendor/topojson-client.min.js" defer></script>
+<script>
+window.addEventListener('load', function () {
+  var root = document.getElementById('research-map');
+  if (!root || !window.d3 || !d3.geoPath || !window.topojson) return;
+
+  var NS = 'http://www.w3.org/2000/svg';
+  var W = 960, H = 380;
+  var places = {
+    berlin:    { name: 'Berlin',    coord: [13.40, 52.52], dx: 10,  dy: -8,  anchor: 'start' },
+    london:    { name: 'London',    coord: [-0.13, 51.51], dx: -10, dy: 4,   anchor: 'end' },
+    nijmegen:  { name: 'Nijmegen',  coord: [5.86, 51.84],  dx: 0,   dy: -14, anchor: 'middle' },
+    singapore: { name: 'Singapore', coord: [103.82, 1.35], dx: 10,  dy: 4,   anchor: 'start' }
+  };
+  var items = [].slice.call(root.querySelectorAll('.rm-steps li'));
+  var stops = items.map(function (li) { return li.getAttribute('data-place'); });
+  var svg = root.querySelector('svg');
+  var tip = root.querySelector('.rm-tip');
+  var now = root.querySelector('.rm-now');
+  var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  var proj = d3.geoNaturalEarth1().fitExtent([[10, 10], [W - 10, H - 10]],
+    { type: 'MultiPoint', coordinates: [[-16, 62], [120, 62], [-16, -8], [120, -8], [52, 66]] });
+  var path = d3.geoPath(proj);
+
+  function el(name, attrs, parent) {
+    var e = document.createElementNS(NS, name);
+    for (var k in attrs) e.setAttribute(k, attrs[k]);
+    (parent || svg).appendChild(e);
+    return e;
+  }
+
+  fetch('{{ site.baseurl }}/assets/data/land-110m.json').then(function (r) { return r.json(); }).then(function (world) {
+    el('path', { 'class': 'rm-land', d: path(topojson.feature(world, world.objects.land)) });
+
+    // arcs between consecutive stops; outbound and return trips bend to opposite sides
+    var arcs = [];
+    for (var i = 1; i < stops.length; i++) {
+      var a = proj(places[stops[i - 1]].coord), b = proj(places[stops[i]].coord);
+      var mx = (a[0] + b[0]) / 2, my = (a[1] + b[1]) / 2;
+      var dx = b[0] - a[0], dy = b[1] - a[1], len = Math.sqrt(dx * dx + dy * dy);
+      var bend = Math.max(18, len * 0.28) * (dx >= 0 ? -1 : 1);
+      var cx = mx - dy / len * bend, cy = my + dx / len * bend;
+      var p = el('path', { 'class': 'rm-arc', d: 'M' + a[0] + ',' + a[1] + 'Q' + cx + ',' + cy + ' ' + b[0] + ',' + b[1] });
+      var L = p.getTotalLength();
+      p.style.strokeDasharray = L;
+      p.style.strokeDashoffset = L;
+      arcs.push(p);
+    }
+
+    // markers with direct labels; hover/focus shows every stay at that place
+    var markers = {};
+    Object.keys(places).forEach(function (key) {
+      var pl = places[key], xy = proj(pl.coord);
+      var g = el('g', { 'class': 'rm-marker', tabindex: 0, role: 'button', 'aria-label': pl.name });
+      el('circle', { 'class': 'rm-hit', cx: xy[0], cy: xy[1], r: 14 }, g);
+      el('circle', { 'class': 'rm-dot', cx: xy[0], cy: xy[1], r: 6 }, g);
+      var t = el('text', { x: xy[0] + pl.dx, y: xy[1] + pl.dy, 'text-anchor': pl.anchor }, g);
+      t.textContent = pl.name;
+      function show() {
+        var html = '<strong>' + pl.name + '</strong>';
+        items.forEach(function (li) {
+          if (li.getAttribute('data-place') === key) {
+            html += '<div>' + li.querySelector('.rm-years').textContent + ': ' +
+              li.textContent.split(' · ').slice(1).join(' · ') + '</div>';
+          }
+        });
+        tip.innerHTML = html;
+        tip.hidden = false;
+        var box = svg.getBoundingClientRect(), s = box.width / W;
+        var left = xy[0] * s + 12, top = xy[1] * s + 12;
+        tip.style.left = Math.min(left, box.width - 280) + 'px';
+        tip.style.top = top + 'px';
+      }
+      function hide() { tip.hidden = true; }
+      g.addEventListener('mouseenter', show); g.addEventListener('focus', show);
+      g.addEventListener('mouseleave', hide); g.addEventListener('blur', hide);
+      markers[key] = g;
+    });
+
+    var timers = [];
+    function setActive(i) {
+      items.forEach(function (li, j) { li.classList.toggle('active', j === i); li.classList.toggle('done', j < i); });
+      Object.keys(markers).forEach(function (k) { markers[k].classList.toggle('active', k === stops[i]); });
+      now.textContent = items[i].querySelector('.rm-years').textContent + ' · ' + places[stops[i]].name;
+    }
+    function showUpTo(i, animate) {
+      arcs.forEach(function (p, j) {
+        p.style.transition = animate && j === i - 1 ? 'stroke-dashoffset 1s ease-in-out' : 'none';
+        p.style.strokeDashoffset = j < i ? 0 : p.getTotalLength();
+      });
+      setActive(i);
+    }
+    function play() {
+      timers.forEach(clearTimeout); timers = [];
+      if (reduced) { showUpTo(stops.length - 1, false); return; }
+      showUpTo(0, false);
+      for (var i = 1; i < stops.length; i++) {
+        (function (k) { timers.push(setTimeout(function () { showUpTo(k, true); }, k * 1500)); })(i);
+      }
+    }
+    items.forEach(function (li, i) {
+      li.tabIndex = 0;
+      li.addEventListener('click', function () { timers.forEach(clearTimeout); showUpTo(i, false); });
+      li.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); li.click(); } });
+    });
+    root.querySelector('.rm-replay').addEventListener('click', play);
+
+    showUpTo(0, false);
+    if ('IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function (entries) {
+        if (entries[0].isIntersecting) { io.disconnect(); play(); }
+      }, { threshold: 0.4 });
+      io.observe(root);
+    } else { play(); }
+  }).catch(function () { root.querySelector('.rm-stage').hidden = true; });
+});
+</script>

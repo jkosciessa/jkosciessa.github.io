@@ -23,11 +23,16 @@
     function store(v) { try { localStorage.setItem('analytics_consent', v); } catch (e) {} }
     function read() { try { return localStorage.getItem('analytics_consent'); } catch (e) { return null; } }
     // Reserve space below the page while the bar is visible, so it never covers content.
-    function pad() { document.body.style.paddingBottom = banner.hidden ? '' : banner.offsetHeight + 'px'; }
+    var reopen = document.getElementById('consent-reopen');
+    // Reserve space below the page while the bar is visible; offer the footer link only once a choice exists.
+    function pad() {
+      document.body.style.paddingBottom = banner.hidden ? '' : banner.offsetHeight + 'px';
+      if (reopen) reopen.hidden = !banner.hidden;
+    }
     function show() { banner.hidden = false; pad(); }
     function hide() { banner.hidden = true; pad(); }
     window.addEventListener('resize', pad);
-    if (!read()) show();
+    if (!read()) show(); else pad();
     document.getElementById('consent-accept').onclick = function () {
       store('granted');
       if (window.posthog && posthog.set_config) posthog.set_config({ persistence: 'localStorage+cookie' });
@@ -39,7 +44,6 @@
       if (window.clearPosthogStorage) window.clearPosthogStorage();
       hide();
     };
-    var reopen = document.getElementById('consent-reopen');
     if (reopen) reopen.onclick = function (e) { e.preventDefault(); show(); };
   })();
 </script>
