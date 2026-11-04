@@ -26,6 +26,7 @@
     document.getElementById('consent-decline').onclick = function () {
       store('denied');
       if (window.posthog && posthog.opt_out_capturing) posthog.opt_out_capturing();
+      if (window.clearPosthogStorage) window.clearPosthogStorage();
       banner.hidden = true;
     };
     var reopen = document.getElementById('consent-reopen');

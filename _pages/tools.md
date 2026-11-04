@@ -33,7 +33,7 @@ A Python version is available [on GitHub](https://github.com/jkosciessa/eBOSC_py
 ### PREprocessing & Simulations for Transcranial Ultrasound Stimulation (PRESTUS)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15095860.svg)](https://doi.org/10.5281/zenodo.15095860)
 
-Chetverikov, A.+, **Kosciessa, J. Q.**+, Cornelissen, M., van der Zee, K., & Verhagen, L. (2024). PRESTUS (0.3.0). Zenodo. https://doi.org/10.5281/zenodo.15095861
+**Kosciessa, J. Q.**, Chetverikov, A., Cornelissen, M., Carpino, E., van der Zee, K., Wimmers, M., Adelhoefer, N., Meijer, S., & Verhagen, L. (2026). PRESTUS (Version v0.6.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.20392907
 
 <img class="img-responsive" src="https://github.com/jkosciessa/PRESTUS_bin/raw/main/img/logo_PRESTUS.png" alt="PRESTUS logo" style="width: 25%">
 
