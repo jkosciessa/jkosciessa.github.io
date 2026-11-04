@@ -35,7 +35,7 @@ A Python version is available [on GitHub](https://github.com/jkosciessa/eBOSC_py
 
 Chetverikov, A.+, **Kosciessa, J. Q.**+, Cornelissen, M., van der Zee, K., & Verhagen, L. (2024). PRESTUS (0.3.0). Zenodo. https://doi.org/10.5281/zenodo.15095861
 
-<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/prestus_overview.png" style="width: 100%">
+<img class="img-responsive" src="https://github.com/jkosciessa/PRESTUS_bin/raw/main/img/logo_PRESTUS.png" alt="PRESTUS logo" style="width: 25%">
 
 PRESTUS (PREprocessing & Simulations for Transcranial Ultrasound Stimulation) is an open-source MATLAB toolbox that aims to streamline imaging-informed simulations of Transcranial Ultrasound Stimulation (TUS): from the segmentation of T1-weighted MRI head scans and mapping of medium tissue properties (possibly informed for skull via (pseudo-)CT images) in a simulation grid, to the execution of acoustic and thermal simulations using the widely adopted k-Wave engine. High-performance computing (HPC) support via SLURM and CentOS enables efficient parallelization, and large-scale analyses. Output 3D NifTI images are automatically mapped to a standard template (MNI) space to facilitate group reporting.
 
