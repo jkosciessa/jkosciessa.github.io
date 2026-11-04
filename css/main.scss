@@ -225,3 +225,6 @@ details.ri > p.ri-media i { color: #9e1e2d; margin-right: 4px; }
 /* Home: pull "About" closer to the summary block */
 #homeid .hero { margin-bottom: 0; }
 #homeid .hero + h2 { margin-top: 6px; }
+
+/* Tools: keep linked tool headings clear of the fixed navbar */
+.tool-card h3[id] { scroll-margin-top: 80px; }

@@ -114,7 +114,7 @@ Quantitative imaging indicates structural reductions in brainstem locus coeruleu
 [bioRxiv](https://doi.org/10.64898/2026.10.30.763065)
 {: .pub-links}
 
-**Kosciessa, J. Q.**, Wimmers, M., Evans, C., Pedroso de Faria, J., Reichstein, S., Gómez Pérez, J., Grondelaers, L., Condorelli, R., & Verhagen, L. (2026). Dissecting thalamic uncertainty management with transcranial ultrasound stimulation. 9th Conference on Cognitive Computational Neuroscience (CCN 2026), New York City, USA.
+**Kosciessa, J. Q.**, Wimmers, M., Evans, C., Pedroso de Faria, J., Reichstein, S., Gómez Pérez, J., Grondelaers, L., Condorelli, R., & Verhagen, L. (2026). Dissecting thalamic uncertainty management with transcranial ultrasound stimulation. 9th Conference on Cognitive Computational Neuroscience ([CCN 2026](https://2026.ccneuro.org/)), New York City, USA.
 
 [Paper](https://openreview.net/pdf?id=8v8K3ORKrw)
 {: .pub-links}
@@ -130,7 +130,7 @@ Cesnaite, E., Vitale, A., Pascarella, A., Vinding, M. C., Algermissen, J., Fisch
 [Preprint](https://osf.io/preprints/metaarxiv/c4xwg_v1)
 {: .pub-links}
 
-**Kosciessa, J. Q.**, Wimmers, M., Krijgsman, S., & Verhagen, L. (2025). Dissociable effects of uncertainty in perceptual and cognitive control. 8th Conference on Cognitive Computational Neuroscience (CCN 2025), Amsterdam, The Netherlands.
+**Kosciessa, J. Q.**, Wimmers, M., Krijgsman, S., & Verhagen, L. (2025). Dissociable effects of uncertainty in perceptual and cognitive control. 8th Conference on Cognitive Computational Neuroscience ([CCN 2025](https://2025.ccneuro.org/)), Amsterdam, The Netherlands.
 
 [Paper](https://2025.ccneuro.org/abstract_pdf/Kosciessa_2025_Dissociable_Effects_Uncertainty_Perceptual_Cognitive_Control.pdf)
 {: .pub-links}
