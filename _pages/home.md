@@ -7,15 +7,15 @@ permalink: /
 ---
 
 <div class="hero">
+<div class="hero-logo">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logo_lab.svg" alt="Cognitive Neurodynamics logo: layered neural signals beside a head with a brain network">
+</div>
 <div class="hero-text" markdown="1">
 
 I study how brain dynamics keep perception and cognition adaptive in uncertain and changing environments. My research tests how thalamic circuits adjust the precision of cortical processing, combining experimental tasks and behavioral modeling with multimodal neuroimaging (EEG, fMRI) and image-guided transcranial ultrasound stimulation (TUS).
 
 <a class="btn btn-default btn-sm btn-cv" href="{{ site.url }}{{ site.baseurl }}/downloads/cv_kosciessa.pdf"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i>Download CV (PDF)</a>
 
-</div>
-<div class="hero-logo">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo_lab.svg" alt="Cognitive Neurodynamics logo: layered neural signals beside a head with a brain network">
 </div>
 </div>
 
@@ -35,7 +35,7 @@ I have a broad interest in Cognitive Psychology, Computational Neuroscience, Mac
 
 **Thalamic influences on cortical dynamics and cognition.** The deep brain thalamus is ideally suited to dynamically regulate specific computations in cortex. Combining the high temporal resolution of EEG with the high spatial resolution of fMRI, my work linked thalamic engagement to dynamic cortical states during perceptual decisions under uncertainty (Kosciessa et al., 2021, 2024).
 
-**Transcranial ultrasound stimulation (TUS).** The thalamus' small size and deep location have long limited its investigation, and targeted interventions, in humans. TUS is a non-invasive brain stimulation technique that can reach deep brain structures with high spatial specificity. I use image-guided TUS, including concurrent fMRI to assess target engagement, to test how thalamic circuits contribute to flexible perception and cognition. I also contribute to TUS methods and best practice: through the open-source simulation toolbox [PRESTUS]({{ site.url }}{{ site.baseurl }}/tools), the ITRUSST working group on acoustic properties, and teaching in the NeuroTechEU course [TUS: Foundations](https://nteucampus.org/course/transcranial-ultrasonic-stimulation-tus-foundations).
+**Transcranial ultrasound stimulation (TUS).** The thalamus' small size and deep location have long limited its investigation, and targeted interventions, in humans. TUS is a non-invasive brain stimulation technique that can reach deep brain structures with high spatial specificity. I use image-guided TUS, including concurrent fMRI to assess target engagement, to test how thalamic circuits contribute to flexible perception and cognition. I also contribute to TUS methods and best practice: through the open-source simulation toolbox [PRESTUS]({{ site.url }}{{ site.baseurl }}/tools) and teaching in the NeuroTechEU course [TUS: Foundations](https://nteucampus.org/course/transcranial-ultrasonic-stimulation-tus-foundations).
 
 **Open and reproducible science.** I treat code, data, and materials as primary scientific outputs. I publish workflows that link version-controlled code and data, develop open-source [tools]({{ site.url }}{{ site.baseurl }}/tools), and teach research data management, including as a ReproNim/INCF fellow.
 
