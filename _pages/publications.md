@@ -13,6 +13,9 @@ permalink: /publications/
 Skowron, A., **Kosciessa, J. Q.**, Lorenz, R. C., Hertwig, R., van den Bos, W., & Garrett, D. D. (2025). Neural variability in the default mode network compresses with increasing belief precision during Bayesian inference. Cerebral Cortex, 35(9). https://doi.org/10.1093/cercor/bhaf219
 {: #skowron-2025 .pub-entry}
 
+BOLD variability tracks changes in internal uncertainty levels during a latent inference task.
+{: .pub-summary}
+
 [Paper](https://doi.org/10.1093/cercor/bhaf219)
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.11.575180v1)
 {: .pub-links}
@@ -20,11 +23,17 @@ Skowron, A., **Kosciessa, J. Q.**, Lorenz, R. C., Hertwig, R., van den Bos, W., 
 Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nassar, M. R., Werkle-Bergner, M., Craik, F. I. M., Lindenberger, U., Mayr, U., Rajah, M. N., Raz, N., Nyberg, L., & Garrett, D. D. (2025). Toward a functional future for the cognitive neuroscience of human aging. Neuron, 113(1), 154-183. https://doi.org/10.1016/j.neuron.2024.12.008
 {: #mooraj-2025 .pub-entry}
 
+A perspective on dominant methodologies in the cognitive neuroscience of human aging, identifying an overreliance on structural and resting-state measures. The perspective advocates for a more task-centric, computationally informed approach in the field.
+{: .pub-summary}
+
 [Paper](https://authors.elsevier.com/sd/article/S0896-6273(24)00886-9)
 {: .pub-links}
 
 **Kosciessa, J. Q.**, Mayr, U., Lindenberger, U. & Garrett, D. D. (2024) Broadscale dampening of uncertainty adjustment in the aging brain. Nat Commun 15, 10717. https://doi.org/10.1038/s41467-024-55416-2
 {: #kosciessa-2024 .pub-entry}
+
+Task uncertainty is tracked by an integrated neural response (EEG & fMRI-based) across 100 younger and older adults, including prefrontal-thalamic modulation. This response dampens in older age, while response maintenance is associated with higher cognitive flexibility.
+{: .pub-summary}
 
 [Paper](https://www.nature.com/articles/s41467-024-55416-2)
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2024-Kosciessa-StateSwitchAging.pdf)
@@ -40,6 +49,9 @@ Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nass
 **Kosciessa, J. Q.**, Lindenberger, U., & Garrett, D. D. (2021). Thalamocortical excitability modulation guides human perception under uncertainty. Nature Communications, 12(1), 2430. doi:10.1038/s41467-021-22511-7
 {: #kosciessa-2021 .pub-entry}
 
+Higher-order thalamic activation increases when contextual uncertainty ambiguates which environmental features are critical for an upcoming choice, and is associated with switches from a rhythmic to an aperiodic processing mode.
+{: .pub-summary}
+
 [Paper](https://www.nature.com/articles/s41467-021-22511-7)
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2021_NatComms_StateSwitch.pdf)
 [bioRxiv v1](https://www.biorxiv.org/content/10.1101/2020.06.22.165118v1)
@@ -51,11 +63,17 @@ Mooraj, Z., Salami, A., Campbell, K. L., Dahl, M. J., **Kosciessa, J. Q.**, Nass
 Kloosterman, N. A., **Kosciessa, J. Q.**, Lindenberger, U., Fahrenfort, J. J., & Garrett, D. D. (2020). Boosts in brain signal variability track liberal shifts in decision bias. Elife, 9. doi:10.7554/eLife.54201
 {: #kloosterman-2020 .pub-entry}
 
+The magnitude of adaptive shifts from conservative to liberal decision biases under speed-accuracy emphasis is tracked by increasing signal variability in frontal cortex.
+{: .pub-summary}
+
 [Paper](https://elifesciences.org/articles/54201)
 {: .pub-links}
 
 **Kosciessa, J. Q.**, Kloosterman, N. A., & Garrett, D. D. (2020). Standard multiscale entropy reflects neural dynamics at mismatched temporal scales: What's signal irregularity got to do with it? PLoS Computational Biology, 16(5), e1007885. doi:10.1371/journal.pcbi.1007885
 {: #kosciessa-kloosterman-2020 .pub-entry}
+
+Highlights and exemplifies biases in prior research using an information-theoretic metric of signal irregularity, and proposes avenues to adjudicate such issues in future applications.
+{: .pub-summary}
 
 [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007885)
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2020_PlosCB_RhythmsEntropy.pdf)
@@ -69,6 +87,9 @@ Kloosterman, N. A., **Kosciessa, J. Q.**, Lindenberger, U., Fahrenfort, J. J., &
 **Kosciessa, J. Q.**, Grandy, T. H., Garrett, D. D., & Werkle-Bergner, M. (2020). Single-trial characterization of neural rhythms: Potential and challenges. NeuroImage, 206, 116331. doi:10.1016/j.neuroimage.2019.116331
 {: #kosciessa-grandy-2020 .pub-entry}
 
+Introduces a novel algorithm that separates neural rhythms from background activity in magnitude, space and time, and enables specific rhythm characterization when boundary conditions are met.
+{: .pub-summary}
+
 [Paper](https://www.sciencedirect.com/science/article/pii/S105381191930922X?via%3Dihub)
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/2019_NeuroImage_eBOSC.pdf)
 [bioRxiv v1](https://www.biorxiv.org/content/10.1101/356089v1?versioned=true)
@@ -79,6 +100,9 @@ Kloosterman, N. A., **Kosciessa, J. Q.**, Lindenberger, U., Fahrenfort, J. J., &
 
 Hämmerer, D., Callaghan, M. F., Hopkins, A., **Kosciessa, J.**, Betts, M., Cardenas-Blanco, A., Kanowski, M., Weiskopf, N., Dayan, P., Dolan, R. J., & Düzel, E. (2018). Locus coeruleus integrity in old age is selectively related to memories linked with salient negative events. Proceedings of the National Academy of Sciences of the United States of America, 115, 2228-2233. doi:10.1073/pnas.1712268115
 {: #hammerer-2018 .pub-entry}
+
+Quantitative imaging indicates structural reductions in brainstem locus coeruleus integrity with increasing adult age, and links related noradrenergic drive to the encoding of salient events.
+{: .pub-summary}
 
 [Paper](https://www.pnas.org/content/115/9/2228)
 {: .pub-links}
@@ -131,6 +155,9 @@ Garrett, D. D., Kloosterman, N. A., Epp, S., Chopurian, V., **Kosciessa, J. Q.**
 {: .pub-links}
 
 **Kosciessa, J. Q.** (2020, Dr. rer. nat.). Measurement and relevance of rhythmic and aperiodic human brain dynamics. Humboldt-Universität zu Berlin. doi:10.18452/22040
+
+This dissertation highlights improvements in the ability to selectively characterize rhythmic and aperiodic fluctuations, and discusses potential generating mechanisms as well as modulatory influences to contextualize their interpretation at the latent level of human brain function.
+{: .pub-summary}
 
 [PDF]({{ site.url }}{{ site.baseurl }}/downloads/dissertation_kosciessa_julian.pdf)
 [Library](https://doi.org/10.18452/22040)

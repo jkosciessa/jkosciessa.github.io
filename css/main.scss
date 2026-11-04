@@ -214,3 +214,6 @@ details.rm-toggle + details.section-toggle { margin-top: 0; }
 .rm-steps li.active { color: #222; background: #fbf6ee; }
 .rm-steps .rm-years { display: inline-block; min-width: 66px; font-variant-numeric: tabular-nums; }
 .rm-steps .rm-city { font-weight: 600; }
+
+/* Publications: one-line summaries under citations */
+.pub-summary { font-size: 14px; color: #6b6b6b; margin: -4px 0 8px; }
