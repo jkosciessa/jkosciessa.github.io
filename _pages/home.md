@@ -94,7 +94,7 @@ Beyond my theoretical interests, I aim to improve the reproducibility and data m
 <summary markdown="span">Awards and fellowships</summary>
 
 - 2026 · [Donders Open Research Output Award](https://www.ru.nl/en/donders-institute/news/donders-day-2026-science-community-and-recognition) (inaugural)
-- 2025 · Gold Poster Award, [Focused Ultrasound Neuromodulation Conference (FUN25)](https://www.polyu.edu.hk/bme/News-and-Events/Events/2025/07/Focused-Ultrasound-Neuromodulation-Conference-2025)
+- 2025 · Gold Poster Award, [Focused Ultrasound Neuromodulation Conference (FUN25)](https://www.polyu.edu.hk/best/news-and-events/news/2025/2025-focused-ultrasound-neuromodulation-conference/?sc_lang=en)
 - 2022 · [Otto Hahn Medal](https://www.mpib-berlin.mpg.de/award/julian-kosciessa-was-awarded-the-otto-hahn-medal-2022) of the Max Planck Society
 - 2022 · [Radboud Excellence Initiative Fellowship](https://www.ru.nl/en/staff/researchers/support-and-development/radboud-excellence-initiative)
 - 2022 · [ReproNim/INCF Fellowship](https://repronim.org/fellowship/)
