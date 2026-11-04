@@ -8,7 +8,7 @@ permalink: /tools
 
 <h2>Open tools and materials</h2>
 
-Projects I have worked on produced multiple tools that I hope are useful for the science community.
+Open-source software and experimental materials from my projects, shared so that others can reproduce and build on this work.
 
 <div class="tool-card">
 <div class="tool-thumb">
