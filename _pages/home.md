@@ -49,6 +49,9 @@ In our uncertain world, brains must adapt to varying degrees of unpredictability
 
 Oscillations are a key signature of neural information coordination, but they are not constantly present and coexist with irregular components traditionally dismissed as background noise. To re-characterize signal and noise in brain function, I develop analysis tools that detect rhythmic episodes in single trials ([eBOSC]({{ site.url }}{{ site.baseurl }}/tools); [Kosciessa, Grandy, et al., 2020]({{ site.url }}{{ site.baseurl }}/publications/#kosciessa-grandy-2020)) and characterize signal irregularity at matched temporal scales ([mMSE]({{ site.url }}{{ site.baseurl }}/tools); [Kosciessa, Kloosterman, et al., 2020]({{ site.url }}{{ site.baseurl }}/publications/#kosciessa-kloosterman-2020)). Applications range from rhythm contributions to working memory ([Kosciessa, Grandy, et al., 2020]({{ site.url }}{{ site.baseurl }}/publications/#kosciessa-grandy-2020)) to brain signal variability that tracks liberal shifts in decision bias ([Kloosterman et al., 2020]({{ site.url }}{{ site.baseurl }}/publications/#kloosterman-2020)).
 
+<i class="fa-brands fa-youtube" aria-hidden="true"></i> Keynote: [Signs, signals, and noise in human brain dynamics](https://www.youtube.com/watch?v=7sWdT7zttso) (CuttingEEG 2023)
+{: .ri-media}
+
 </details>
 
 <details class="ri" markdown="1">
@@ -63,12 +66,18 @@ The deep brain thalamus is ideally suited to dynamically regulate specific compu
 
 Maladaptive brain dynamics are central to many mental disorders, which calls for approaches that can reshape them. The thalamus orchestrates widespread brain dynamics, but its small size, differentiated structure, and deep location have long limited its investigation, and targeted interventions, in humans. A Radboud Excellence Fellowship (2022–2024) enabled me to extend my research to TUS, a non-invasive brain stimulation technique that can reach deep brain structures with high spatial specificity. I use image-guided TUS, including concurrent fMRI to assess target engagement, to test how thalamic circuits contribute to flexible perception and cognition, and to help define best practices for this approach. To support rigorous TUS research, I develop the open-source simulation toolbox [PRESTUS]({{ site.url }}{{ site.baseurl }}/tools) for planning TUS studies, and teach acoustic simulation in the NeuroTechEU course [TUS: Foundations](https://nteucampus.org/course/transcranial-ultrasonic-stimulation-tus-foundations).
 
+<i class="fa-solid fa-chalkboard-user" aria-hidden="true"></i> Lecture: [Personalised and precision stimulation with TUS](https://nteucampus.org/lesson/personalised-and-precision-stimulation-tus) (NeuroTechEU)
+{: .ri-media}
+
 </details>
 
 <details class="ri" markdown="1">
 <summary markdown="span">Open and reproducible neuroscience</summary>
 
 Beyond my theoretical interests, I aim to improve the reproducibility and data management of complex neuroscientific projects. For example, preprocessing and analysis choices for high-dimensional EEG data vary between analysts, which questions the robustness of outcomes. I contributed a reproducible workflow that links version-controlled code and data to the EEGManyPipelines project, which assesses the impact of such variability across the community ([Cesnaite et al., 2026]({{ site.url }}{{ site.baseurl }}/publications/#cesnaite-2026)). Across projects, I follow FAIR principles (Findable, Accessible, Interoperable, Reusable) and treat code, data, and materials as primary scientific outputs. I develop and maintain open-source [tools]({{ site.url }}{{ site.baseurl }}/tools), and teach research data management, including as a ReproNim/INCF fellow (2022).
+
+<i class="fa-brands fa-youtube" aria-hidden="true"></i> Talk: [Neuroscientific data management using DataLad](https://www.youtube.com/watch?v=aFfrx9LHjzE) (distribits 2024)
+{: .ri-media}
 
 </details>
 
